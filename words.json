@@ -1,19 +1,3790 @@
 [
-  {
-    "word": "2 q 3",
-    "type": "s",
-    "definition":
     {
-      "0":"Tomarse un par de cervezas con los amigos.",
-      "1":"tessss"
-    }
-  },
-  {
-    "word": "A balazo",
-    "type": "v",
-    "definition":
+        "word": "2 q 3",
+        "type": "s",
+        "definition": {
+            "0": "Tomarse un par de cervezas con los amigos.",
+            "1": "tessss"
+        }
+    },
     {
-      "0":"Hacer algo de manera rápida."
+        "word": "A balazo",
+        "type": "v",
+        "definition": {
+            "0": "Hacer algo de manera r\u00e1pida."
+        }
+    },
+    {
+        "word": "A otro nivel:",
+        "type": "a",
+        "definition": {
+            "0": "D\u00edcese de algo que est\u00e1 muy bueno o se ve muy bien. "
+        }
+    },
+    {
+        "word": "Aculillado:",
+        "type": "a",
+        "definition": {
+            "0": "Persona con mucho miedo. "
+        }
+    },
+    {
+        "word": "Agarrao:",
+        "type": "a",
+        "definition": {
+            "0": "Persona de gran musculatura. "
+        }
+    },
+    {
+        "word": "Ag\u00fcaitar:",
+        "type": "v",
+        "definition": {
+            "0": "Esperar, observar con cautela. "
+        }
+    },
+    {
+        "word": "Ag\u00fcanchinche:",
+        "type": "a",
+        "definition": {
+            "0": "Persona que es llevada en la espalda de alguien m\u00e1s. "
+        }
+    },
+    {
+        "word": "Ahuevado:",
+        "type": "a",
+        "definition": {
+            "0": "Persona con falta de personalidad, f\u00e1cil de influir en \u00e9l/ella, despistado, sumiso. "
+        }
+    },
+    {
+        "word": "Ahuevason:",
+        "type": "s",
+        "definition": {
+            "0": "Estado de despiste, falta de personalidad en una persona, sumisi\u00f3n, cuando se est\u00e1 sin car\u00e1cter. "
+        }
+    },
+    {
+        "word": "All\u00e1 onde uno:",
+        "type": "s",
+        "definition": {
+            "0": "\u00c1reas del interior del pa\u00eds. Lejos de la ciudad capital. "
+        }
+    },
+    {
+        "word": "Amonchinche:",
+        "type": "a",
+        "definition": {
+            "0": "Ver Ag\u00fcanchinche. Persona que es llevada en la espalda de alguien m\u00e1s. "
+        }
+    },
+    {
+        "word": "A\u00f1ingotarse:",
+        "type": "v",
+        "definition": {
+            "0": "Acuclillarse. Poner el propio cuerpo con los pies apoyados en el suelo y las piernas dobladas completamente de forma que los muslos quedan apoyados en las pantorrillas. "
+        }
+    },
+    {
+        "word": "AON:",
+        "type": "acr.",
+        "definition": {
+            "0": "A Otro Nivel. D\u00edcese de algo que est\u00e1 muy bueno o se ve muy bien. "
+        }
+    },
+    {
+        "word": "Apolismao:",
+        "type": "a",
+        "definition": {
+            "0": "D\u00edcese de Apolismar. Cuando una fruta cae del \u00e1rbol y se da\u00f1a, queda incomestible. Golpeado, Aporreado. "
+        }
+    },
+    {
+        "word": "Apolismar:",
+        "type": "v",
+        "definition": {
+            "0": "Cuando una fruta cae del \u00e1rbol y se da\u00f1a, queda incomestible. Golpeado, Aporreado. "
+        }
+    },
+    {
+        "word": "Apu\u00f1alear:",
+        "type": "v",
+        "definition": {
+            "0": "Masturbarse. "
+        }
+    },
+    {
+        "word": "Arrancarse:",
+        "type": "v",
+        "definition": {
+            "0": "Irse de fiesta. "
+        }
+    },
+    {
+        "word": "Arranque:",
+        "type": "s",
+        "definition": {
+            "0": "La fiesta, la salida de la noche. "
+        }
+    },
+    {
+        "word": "Arrascar:",
+        "type": "v",
+        "definition": {
+            "0": "Rascar, frotar. "
+        }
+    },
+    {
+        "word": "Arrebati\u00f1a:",
+        "type": "s",
+        "definition": {
+            "0": "Cuando se arrojan objetos deseados a un grupo de personas, y estas se disputan los mismos. "
+        }
+    },
+    {
+        "word": "Arrepinche:",
+        "type": "a",
+        "definition": {
+            "0": "Parranda, juerga, bullicio "
+        }
+    },
+    {
+        "word": "Arropadera:",
+        "type": "a",
+        "definition": {
+            "0": "Acci\u00f3n de Arropar Besar, acariciar, manosear a la pareja "
+        }
+    },
+    {
+        "word": "Arropar:",
+        "type": "v",
+        "definition": {
+            "0": "Besar, acariciar, manosear a la pareja "
+        }
+    },
+    {
+        "word": "Arrope:",
+        "type": "s",
+        "definition": {
+            "0": "Persona con la que se Arropa Ver Arropar "
+        }
+    },
+    {
+        "word": "Aw:",
+        "type": "s",
+        "definition": {
+            "0": "Persona con la que se Arropa Ver Arropar "
+        }
+    },
+    {
+        "word": "Awe:",
+        "type": "s",
+        "definition": {
+            "0": "Persona con la que se Arropa Ver Arropar "
+        }
+    },
+    {
+        "word": "Aweba:",
+        "type": "a",
+        "definition": {
+            "0": "Persona con falta de personalidad, f\u00e1cil de influir en \u00e9l/ella, despistado, sumiso "
+        }
+    },
+    {
+        "word": "Awebao:",
+        "type": "a",
+        "definition": {
+            "0": "Persona con falta de personalidad, f\u00e1cil de influir en \u00e9l/ella, despistado, sumiso "
+        }
+    },
+    {
+        "word": "Awebason:",
+        "type": "s",
+        "definition": {
+            "0": "Estado de despiste, falta de personalidad en una persona, sumisi\u00f3n, cuando se est\u00e1 sin car\u00e1cter "
+        }
+    },
+    {
+        "word": "Ayala:",
+        "type": "s",
+        "definition": {
+            "0": "Para expresar sorpresa, exaltaci\u00f3n "
+        }
+    },
+    {
+        "word": "Bagre:",
+        "type": "s",
+        "definition": {
+            "0": "Mujer de apariencia no muy agradable "
+        }
+    },
+    {
+        "word": "Bajareque:",
+        "type": "s",
+        "definition": {
+            "0": "Lluvia de baja intensidad, presente principalmente en tierras altas "
+        }
+    },
+    {
+        "word": "Bajate del bus:",
+        "type": "exp",
+        "definition": {
+            "0": "Pagar, invitar "
+        }
+    },
+    {
+        "word": "Bajito de sal:",
+        "type": "exp",
+        "definition": {
+            "0": "De masculinidad dudosa "
+        }
+    },
+    {
+        "word": "Bandidaje:",
+        "type": "s",
+        "definition": {
+            "0": "Acci\u00f3n del bandido/bandida Tener una relaci\u00f3n con una persona de manera secreta, sin llamar la atenci\u00f3n "
+        }
+    },
+    {
+        "word": "Bandido:",
+        "type": "s",
+        "definition": {
+            "0": "Persona que lleva una relaci\u00f3n con otra persona, pero en secreto, sin llamar la atenci\u00f3n de los dem\u00e1s, generalmente por motivos de infidelidad "
+        }
+    },
+    {
+        "word": "Ba\u00f1o de pueblo:",
+        "type": "s",
+        "definition": {
+            "0": "Visitar las \u00e1reas m\u00e1s concurridas y populares de la ciudad "
+        }
+    },
+    {
+        "word": "Bater\u00eda:",
+        "type": "s",
+        "definition": {
+            "0": "Pedazo de papel, generalmente peque\u00f1o, con respuestas de un examen, prueba, etc. "
+        }
+    },
+    {
+        "word": "Batida:",
+        "type": "s",
+        "definition": {
+            "0": "Ronda policial. "
+        }
+    },
+    {
+        "word": "Beby:",
+        "type": "s",
+        "definition": {
+            "0": "Diminutivo de beb\u00e9, para mostrar afecto. "
+        }
+    },
+    {
+        "word": "Berraco:",
+        "type": "a",
+        "definition": {
+            "0": "De gran valent\u00eda. "
+        }
+    },
+    {
+        "word": "Berraquera:",
+        "type": "s",
+        "definition": {
+            "0": "Algo de gran valor, valent\u00eda, honor, agallas, destreza. "
+        }
+    },
+    {
+        "word": "Bici:",
+        "type": "s",
+        "definition": {
+            "0": "Bicicleta. "
+        }
+    },
+    {
+        "word": "Bien Cuidao:",
+        "type": "s",
+        "definition": {
+            "0": "Hombre de la localidad que ofrece el servicio de custodia y atenci\u00f3n del veh\u00edculo en donde vaya a ser estacionado, solicitando un pago previo de un par de d\u00f3lares. "
+        }
+    },
+    {
+        "word": "Birria:",
+        "type": "s",
+        "definition": {
+            "0": "Juego sin reglas. Jugar por diversi\u00f3n, juego espont\u00e1neo. "
+        }
+    },
+    {
+        "word": "Blanco:",
+        "type": "s",
+        "definition": {
+            "0": "Cigarrillo de tabaco. "
+        }
+    },
+    {
+        "word": "Blazear:",
+        "type": "v",
+        "definition": {
+            "0": ""
+        }
+    },
+    {
+        "word": "Blod:",
+        "type": "s",
+        "definition": {
+            "0": "Amigo, persona muy cercana, generalmente conocido desde la infancia. "
+        }
+    },
+    {
+        "word": "Bochinche:",
+        "type": "s",
+        "definition": {
+            "0": "Chisme. "
+        }
+    },
+    {
+        "word": "Bochinchoso:",
+        "type": "a",
+        "definition": {
+            "0": "Persona chismosa. "
+        }
+    },
+    {
+        "word": "Boc\u00f3n:",
+        "type": "a",
+        "definition": {
+            "0": "Persona que habla de m\u00e1s. "
+        }
+    },
+    {
+        "word": "Boom:",
+        "type": "exp.",
+        "definition": {
+            "0": "Onomatopeya del sonido de una explosi\u00f3n. Se utiliza para referirse a que se est\u00e1 dispuesto a realizar algo o ir a alg\u00fan lugar. "
+        }
+    },
+    {
+        "word": "Borracho:",
+        "type": "a",
+        "definition": {
+            "0": "En estado et\u00edlico. Despu\u00e9s de haber consumido grandes cantidades de alcohol. "
+        }
+    },
+    {
+        "word": "Borrador:",
+        "type": "s",
+        "definition": {
+            "0": "Cami\u00f3n de carga pesada. Generalmente circula a altas velocidades por calles transitadas. "
+        }
+    },
+    {
+        "word": "Botarla:",
+        "type": "v",
+        "definition": {
+            "0": "Realizar una acci\u00f3n y hacer que todos queden impresionados. Hacer algo mejor que todos. "
+        }
+    },
+    {
+        "word": "Bote:",
+        "type": "s",
+        "definition": {
+            "0": "Darle un avent\u00f3n a alguien. Llevar a alguien a alg\u00fan lugar en el carro. "
+        }
+    },
+    {
+        "word": "Botella:",
+        "type": "s",
+        "definition": {
+            "0": "Persona que consigue trabajo, generalmente dentro del gobierno, por medio de influencias de superiores. "
+        }
+    },
+    {
+        "word": "Breham:",
+        "type": "exp.",
+        "definition": {
+            "0": "Hambre. "
+        }
+    },
+    {
+        "word": "Bro:",
+        "type": "s",
+        "definition": {
+            "0": "Proviene del anglicismo Brother. Amigo. Persona muy allegada. "
+        }
+    },
+    {
+        "word": "Broder:",
+        "type": "s",
+        "definition": {
+            "0": "Proviene del anglicismo Brother. Amigo. Persona muy allegada. "
+        }
+    },
+    {
+        "word": "Brother:",
+        "type": "s",
+        "definition": {
+            "0": "Amigo. Mejor amigo. Persona muy allegada. "
+        }
+    },
+    {
+        "word": "Brou:",
+        "type": "s",
+        "definition": {
+            "0": "Proviene del anglicismo Brother. Amigo. Persona muy allegada. Generalmente dicho por los j\u00f3venes. "
+        }
+    },
+    {
+        "word": "Brujo:",
+        "type": "a",
+        "definition": {
+            "0": "De dudosa procedencia. Algo que no es totalmente confiable. "
+        }
+    },
+    {
+        "word": "Brutal:",
+        "type": "a",
+        "definition": {
+            "0": "Algo muy bueno. Que llama la atenci\u00f3n. Emocionante. "
+        }
+    },
+    {
+        "word": "Buay:",
+        "type": "s",
+        "definition": {
+            "0": "Joven masculino. "
+        }
+    },
+    {
+        "word": "Buco:",
+        "type": "a",
+        "definition": {
+            "0": "Mucho, en abundancia. "
+        }
+    },
+    {
+        "word": "Bueno:",
+        "type": "a",
+        "definition": {
+            "0": "De gran belleza f\u00edsica. Buena apariencia. Buen cuerpo. "
+        }
+    },
+    {
+        "word": "Buena:",
+        "type": "a",
+        "definition": {
+            "0": "De gran belleza f\u00edsica. Buena apariencia. Buen cuerpo. "
+        }
+    },
+    {
+        "word": "Bulto:",
+        "type": "s",
+        "definition": {
+            "0": "Persona con pocas habilidades, ya sea f\u00edsicas o mentales. Suele fallar en las cosas que intenta hacer. "
+        }
+    },
+    {
+        "word": "Burundanga:",
+        "type": "s",
+        "definition": {
+            "0": "Comida chatarra, principalmente vendidas en las tiendas de la esquina. "
+        }
+    },
+    {
+        "word": "Caballete:",
+        "type": "a",
+        "definition": {
+            "0": "Con fuerza. Con actitud. Respetable. "
+        }
+    },
+    {
+        "word": "Caballo:",
+        "type": "a",
+        "definition": {
+            "0": "Persona torpe. Exagerado, generalmente utiliza la fuerza bruta para tareas simples. "
+        }
+    },
+    {
+        "word": "Cabanga:",
+        "type": "s",
+        "definition": {
+            "0": "Sentimiento de tristeza, por la partida de un lugar o de una persona. "
+        }
+    },
+    {
+        "word": "Cabrearse:",
+        "type": "v",
+        "definition": {
+            "0": "Molestarse, enfadarse, enojarse. Poner fuera de las casillas. "
+        }
+    },
+    {
+        "word": "Cabreo:",
+        "type": "s",
+        "definition": {
+            "0": "Objeto o persona que genera enfado o enojo en alguien. "
+        }
+    },
+    {
+        "word": "Cacao:",
+        "type": "s",
+        "definition": {
+            "0": "Relaciones sexuales. "
+        }
+    },
+    {
+        "word": "Cacha:",
+        "type": "s",
+        "definition": {
+            "0": "Abreviaci\u00f3n de Cachacueco. Hombre que tiene relaciones sexuales con homosexuales por dinero. "
+        }
+    },
+    {
+        "word": "Cachacueco:",
+        "type": "s",
+        "definition": {
+            "0": "Hombre que tiene relaciones sexuales con homosexuales por dinero. "
+        }
+    },
+    {
+        "word": "Caf\u00e1:",
+        "type": "s",
+        "definition": {
+            "0": "Golpe r\u00e1pido en las orejas, generalmente dado con un dedo. "
+        }
+    },
+    {
+        "word": "Cafl\u00e1:",
+        "type": "s",
+        "definition": {
+            "0": "Golpe r\u00e1pido en las orejas, generalmente dado con un dedo. "
+        }
+    },
+    {
+        "word": "Cagada:",
+        "type": "s",
+        "definition": {
+            "0": "Cosa, persona o hecho mal ejecutado, que trae malas consecuencias para los involucrados. "
+        }
+    },
+    {
+        "word": "Cagadera:",
+        "type": "s",
+        "definition": {
+            "0": "Diarrea. "
+        }
+    },
+    {
+        "word": "Cagad\u00f3n:",
+        "type": "s",
+        "definition": {
+            "0": "Cagada de grandes proporciones. Cosa, persona o hecho mal ejecutado, que trae malas consecuencias para los involucrados. "
+        }
+    },
+    {
+        "word": "Cagao:",
+        "type": "a",
+        "definition": {
+            "0": "Con miedo, con temor, pavor. "
+        }
+    },
+    {
+        "word": "Cagao en plata:",
+        "type": "exp.",
+        "definition": {
+            "0": "Persona con grandes cantidades de dinero. "
+        }
+    },
+    {
+        "word": "Cague:",
+        "type": "s",
+        "definition": {
+            "0": "El hecho de excretar, cagar. "
+        }
+    },
+    {
+        "word": "Cague de risa:",
+        "type": "exp.",
+        "definition": {
+            "0": "Para expresar mucha risa. Algo hilarante, muy gracioso. "
+        }
+    },
+    {
+        "word": "Cajet\u00f3n:",
+        "type": "s",
+        "definition": {
+            "0": "Carro de la polic\u00eda, en el que se llevan en custodia a las personas detenidas. "
+        }
+    },
+    {
+        "word": "Cajet\u00f3n:",
+        "type": "s",
+        "definition": {
+            "0": "Carro de la polic\u00eda, en el que se llevan en custodia a las personas detenidas. "
+        }
+    },
+    {
+        "word": "Cama:",
+        "type": "s",
+        "definition": {
+            "0": "Trampa preparada para los enemigos. "
+        }
+    },
+    {
+        "word": "Camar\u00f3n:",
+        "type": "s",
+        "definition": {
+            "0": "Trabajo casual, sin contratos, de entrega y pago r\u00e1pido. "
+        }
+    },
+    {
+        "word": "Canela:",
+        "type": "s",
+        "definition": {
+            "0": "Amor, enamoramiento. "
+        }
+    },
+    {
+        "word": "Canelearse:",
+        "type": "v",
+        "definition": {
+            "0": "Enamorarse. "
+        }
+    },
+    {
+        "word": "Cangreja:",
+        "type": "s",
+        "definition": {
+            "0": "Mujer de apariencia poco favorable, no muy agraciada. "
+        }
+    },
+    {
+        "word": "Capri:",
+        "type": "lug.",
+        "definition": {
+            "0": "Cabaret muy frecuentado en la ciudad. "
+        }
+    },
+    {
+        "word": "Carrizo:",
+        "type": "s",
+        "definition": {
+            "0": "Popote, pajilla, pitillo. "
+        }
+    },
+    {
+        "word": "Cartucho:",
+        "type": "s",
+        "definition": {
+            "0": "Bolsa de pl\u00e1stico, generalmente de supermercados y tiendas. "
+        }
+    },
+    {
+        "word": "Casco:",
+        "type": "s",
+        "definition": {
+            "0": "Mujer de apariencia poco favorable, no muy agraciada. "
+        }
+    },
+    {
+        "word": "CDR:",
+        "type": "acr.",
+        "definition": {
+            "0": "Cagado de risa. Algo que provoca mucha risa, hilarante, muy gracioso. "
+        }
+    },
+    {
+        "word": "Cepillar:",
+        "type": "v",
+        "definition": {
+            "0": "Tratar bien a una persona, darle cumplidos, con el prop\u00f3sito de obtener algo de esa persona. Engatusar, embaucar. "
+        }
+    },
+    {
+        "word": "Cepillo:",
+        "type": "s",
+        "definition": {
+            "0": "Persona que cepilla a otra, lo trata bien, le da cumplidos, para obtener algo de esta otra persona. "
+        }
+    },
+    {
+        "word": "Cerruchar:",
+        "type": "v",
+        "definition": {
+            "0": "Seducir a la mujer de otro hombre. "
+        }
+    },
+    {
+        "word": "Cha:",
+        "type": "exp.",
+        "definition": {
+            "0": "Abreviaci\u00f3n de chucha. Utilizado para darle entonaci\u00f3n a una expresi\u00f3n, se utiliza al inicio de la misma. De vez en cuando utilizado para demostrar sorpresa. "
+        }
+    },
+    {
+        "word": "Chacal:",
+        "type": "s",
+        "definition": {
+            "0": "Persona de barrio popular, con cierto estilo de vida y de vestimenta. Generalmente relacionado con pandilleros, maleantes, pero no en todos los casos. "
+        }
+    },
+    {
+        "word": "Chacalito:",
+        "type": "s",
+        "definition": {
+            "0": "Persona joven de barrio popular, con cierto estilo de vida y de vestimenta. Generalmente relacionado con pandilleros, maleantes, pero no en todos los casos. "
+        }
+    },
+    {
+        "word": "Ch\u00e1cara:",
+        "type": "s",
+        "definition": {
+            "0": "Escroto. "
+        }
+    },
+    {
+        "word": "Chacar\u00f3n:",
+        "type": "a",
+        "definition": {
+            "0": "Persona con escroto de gran tama\u00f1o. No se utiliza literalmente, suele usarse para referirse a alguien vago. "
+        }
+    },
+    {
+        "word": "Chachai:",
+        "type": "s",
+        "definition": {
+            "0": "Vestido de ni\u00f1a. "
+        }
+    },
+    {
+        "word": "Chamb\u00f3n:",
+        "type": "a",
+        "definition": {
+            "0": "Torpe, inepto, desma\u00f1ado, incompetente. "
+        }
+    },
+    {
+        "word": "Chance:",
+        "type": "s",
+        "definition": {
+            "0": "Tiquete de loter\u00eda con s\u00f3lo dos n\u00fameros. "
+        }
+    },
+    {
+        "word": "Chaneao:",
+        "type": "a",
+        "definition": {
+            "0": "Acicalado, bien vestido y arreglado. Engalanado, aseado. "
+        }
+    },
+    {
+        "word": "Chantin:",
+        "type": "s",
+        "definition": {
+            "0": "Casa. "
+        }
+    },
+    {
+        "word": "Chata:",
+        "type": "s",
+        "definition": {
+            "0": "J\u00f3ven de la calle. "
+        }
+    },
+    {
+        "word": "Ch\u00e9chere:",
+        "type": "s",
+        "definition": {
+            "0": "Cosa sin importancia. "
+        }
+    },
+    {
+        "word": "Chekear:",
+        "type": "v",
+        "definition": {
+            "0": "Del anglicismo check out. Mirar, observar. "
+        }
+    },
+    {
+        "word": "Chele:",
+        "type": "s",
+        "definition": {
+            "0": "Semen. "
+        }
+    },
+    {
+        "word": "Chenchen:",
+        "type": "s",
+        "definition": {
+            "0": "Dinero, plata. "
+        }
+    },
+    {
+        "word": "Chequear:",
+        "type": "v",
+        "definition": {
+            "0": "Del anglicismo check out. Mirar, observar. "
+        }
+    },
+    {
+        "word": "Chicha de pi\u00f1a:",
+        "type": "a",
+        "definition": {
+            "0": "Cosa f\u00e1cil de realizar, que no necesita mucho esfuerzo ni habilidad. "
+        }
+    },
+    {
+        "word": "Chicha fuerte:",
+        "type": "s",
+        "definition": {
+            "0": "Bebida alcoh\u00f3lica obtenida por la fermentaci\u00f3n del ma\u00edz. Generalmente preparada de manera ilegal, consumida por personas del campo. Con altos niveles de alcohol, puede llegar a ser muy peligrosa. "
+        }
+    },
+    {
+        "word": "Chicheme:",
+        "type": "s",
+        "definition": {
+            "0": "Bebida a base de ma\u00edz y leche. Conocido como chicheme chorrerano, ya que proviene y es m\u00e1s consumida en esta ciudad del pa\u00eds. "
+        }
+    },
+    {
+        "word": "Chichi:",
+        "type": "s",
+        "definition": {
+            "0": "Beb\u00e9, utilizado para demostrar afecto. "
+        }
+    },
+    {
+        "word": "Chifear:",
+        "type": "v",
+        "definition": {
+            "0": "Ignorar, desatender, prescindir. "
+        }
+    },
+    {
+        "word": "Chifeo:",
+        "type": "a",
+        "definition": {
+            "0": "Acci\u00f3n de chifear. Ignora, desatender, prescindir. "
+        }
+    },
+    {
+        "word": "Chiki show:",
+        "type": "s",
+        "definition": {
+            "0": "Drama exagerado, calamidad, tragedia, generalmente producido por problemas personales entre dos personas. "
+        }
+    },
+    {
+        "word": "Chilea:",
+        "type": "exp.",
+        "definition": {
+            "0": "Expresi\u00f3n utilizada para sugerirle a una persona que se relaje, calmarse, tranquilizarse. "
+        }
+    },
+    {
+        "word": "Chillin:",
+        "type": "a",
+        "definition": {
+            "0": "Cuando algo o alguien est\u00e1 bien con todo, que todo va bien, sin problemas. "
+        }
+    },
+    {
+        "word": "Chinga:",
+        "type": "s",
+        "definition": {
+            "0": "Juego de cualquiera naturalidad donde se apuesta, generalmente dinero. "
+        }
+    },
+    {
+        "word": "Chinito:",
+        "type": "s",
+        "definition": {
+            "0": "Tienda, mini super, abarroter\u00eda. Nombre adquirido ya que generalmente son administrados y manejados por personas asi\u00e1ticas. "
+        }
+    },
+    {
+        "word": "Chiqui show:",
+        "type": "s",
+        "definition": {
+            "0": "Drama exagerado, calamidad, tragedia, generalmente producido por problemas personales entre dos personas. "
+        }
+    },
+    {
+        "word": "Chiquillo:",
+        "type": "s",
+        "definition": {
+            "0": "Ni\u00f1o. "
+        }
+    },
+    {
+        "word": "Chiquillera:",
+        "type": "s",
+        "definition": {
+            "0": "Gran cantidad de ni\u00f1os. "
+        }
+    },
+    {
+        "word": "Chirrisco:",
+        "type": "s",
+        "definition": {
+            "0": "Bebida alcoh\u00f3lica fermentada con el uso de \u00e1cido de bater\u00eda, el cual la hace extremadamente peligrosa. Es ilegal en Panam\u00e1 su producci\u00f3n y venta. Generalmente producida por personas del campo. "
+        }
+    },
+    {
+        "word": "Chiwi:",
+        "type": "s",
+        "definition": {
+            "0": "Burundanga. Comida chatarra. "
+        }
+    },
+    {
+        "word": "Chogorra:",
+        "type": "s",
+        "definition": {
+            "0": "Mujer de apariencia poco favorable, no muy agraciada. "
+        }
+    },
+    {
+        "word": "Cholipay:",
+        "type": "s",
+        "definition": {
+            "0": "Mujer del campo de bonita apariencia. "
+        }
+    },
+    {
+        "word": "Chollywood:",
+        "type": "s",
+        "definition": {
+            "0": "Grupo de personalidades de la far\u00e1ndula paname\u00f1a. "
+        }
+    },
+    {
+        "word": "Cholo:",
+        "type": "s",
+        "definition": {
+            "0": "Persona del campo. Generalmente no conoce las facilidades ni el estilo de vida que existe en las ciudades, ya que vive lejos de ellas. "
+        }
+    },
+    {
+        "word": "Cholometal:",
+        "type": "s",
+        "definition": {
+            "0": "Cholo que le gusta el rock. Persona del campo que le agrada la m\u00fasica rock. "
+        }
+    },
+    {
+        "word": "Chombo:",
+        "type": "s",
+        "definition": {
+            "0": "Hombre de tez oscura. "
+        }
+    },
+    {
+        "word": "Chonta:",
+        "type": "s",
+        "definition": {
+            "0": "Cabeza. "
+        }
+    },
+    {
+        "word": "Chont\u00f3n:",
+        "type": "a",
+        "definition": {
+            "0": "Cabez\u00f3n. "
+        }
+    },
+    {
+        "word": "Chorrillo:",
+        "type": "lug.",
+        "definition": {
+            "0": "Barrio popular en la ciudad de Panam\u00e1. "
+        }
+    },
+    {
+        "word": "Chota:",
+        "type": "s",
+        "definition": {
+            "0": "Carro de la polic\u00eda, utilizado para llevar a los custodios que son detenidos en las rondas nocturnas. "
+        }
+    },
+    {
+        "word": "Choteo:",
+        "type": "s",
+        "definition": {
+            "0": "Hecho que se utiliza para molestar o fastidiar a alguien m\u00e1s. "
+        }
+    },
+    {
+        "word": "Chucherga:",
+        "type": "s",
+        "definition": {
+            "0": "Embrollo, confusi\u00f3n, exaltamiento. "
+        }
+    },
+    {
+        "word": "Chuchita:",
+        "type": "s",
+        "definition": {
+            "0": "Persona sumisa. "
+        }
+    },
+    {
+        "word": "Chuchon:",
+        "type": "a",
+        "definition": {
+            "0": "Con alto nivel de dificultad. "
+        }
+    },
+    {
+        "word": "Chuleta:",
+        "type": "exp.",
+        "definition": {
+            "0": "Expresi\u00f3n de asombro. "
+        }
+    },
+    {
+        "word": "Chupadera:",
+        "type": "s",
+        "definition": {
+            "0": "Reuni\u00f3n entre amigos para consumir alcohol. Generalmente en la casa de alguno de los presentes. "
+        }
+    },
+    {
+        "word": "Chupar:",
+        "type": "v",
+        "definition": {
+            "0": "Consumir alcohol. "
+        }
+    },
+    {
+        "word": "Chupata:",
+        "type": "s",
+        "definition": {
+            "0": "Ver Chupadera. Reuni\u00f3n entre amigos para consumir alcohol. Generalmente en la casa de alguno de los presentes. "
+        }
+    },
+    {
+        "word": "Chup\u00f3n:",
+        "type": "s",
+        "definition": {
+            "0": "Peque\u00f1o co\u00e1gulo de sangre, generalmente en el cuello, creado la mayor\u00eda de las veces por besos y caricias de la pareja. "
+        }
+    },
+    {
+        "word": "Churrusco:",
+        "type": "a",
+        "definition": {
+            "0": "D\u00edcese del cabello duro y reseco. Generalmente presente en la comunidad afro. "
+        }
+    },
+    {
+        "word": "Chuzo:",
+        "type": "exp.",
+        "definition": {
+            "0": "Expresi\u00f3n de asombro. "
+        }
+    },
+    {
+        "word": "Cinco:",
+        "type": "s",
+        "definition": {
+            "0": "Siesta, descanso corto. "
+        }
+    },
+    {
+        "word": "Cinta:",
+        "type": "s",
+        "definition": {
+            "0": "Cuento, historia. "
+        }
+    },
+    {
+        "word": "Cocho:",
+        "type": "s",
+        "definition": {
+            "0": "Golpe no muy fuerte en la cabeza. "
+        }
+    },
+    {
+        "word": "Cocoa:",
+        "type": "s",
+        "definition": {
+            "0": "Chisme, cuento que generalmente conlleva controversia. "
+        }
+    },
+    {
+        "word": "Cocobola:",
+        "type": "s",
+        "definition": {
+            "0": "Mujer sin cabello. "
+        }
+    },
+    {
+        "word": "Cocorr\u00f3n:",
+        "type": "s",
+        "definition": {
+            "0": "Golpe no muy fuerte en la cabeza. "
+        }
+    },
+    {
+        "word": "Codo:",
+        "type": "a",
+        "definition": {
+            "0": "Persona taca\u00f1a, que no le gusta gastar dinero. "
+        }
+    },
+    {
+        "word": "Coima:",
+        "type": "s",
+        "definition": {
+            "0": "Pago que se le hace a la polic\u00eda, generalmente para evitar una multa. Soborno. "
+        }
+    },
+    {
+        "word": "Coimero:",
+        "type": "a",
+        "definition": {
+            "0": "Persona que practica el soborno con la polic\u00eda para evitar multas. "
+        }
+    },
+    {
+        "word": "Cojelo suave:",
+        "type": "exp.",
+        "definition": {
+            "0": "C\u00e1lmate, rel\u00e1jate, des estr\u00e9sate. "
+        }
+    },
+    {
+        "word": "Cojer:",
+        "type": "v",
+        "definition": {
+            "0": "Tener relaciones sexuales. "
+        }
+    },
+    {
+        "word": "Come arroz:",
+        "type": "s",
+        "definition": {
+            "0": "Hijo peque\u00f1o. "
+        }
+    },
+    {
+        "word": "Comer:",
+        "type": "v",
+        "definition": {
+            "0": "Tener relaciones sexuales. "
+        }
+    },
+    {
+        "word": "Comiendo cable:",
+        "type": "exp.",
+        "definition": {
+            "0": "Para expresar que se est\u00e1 viviendo una dif\u00edcil situaci\u00f3n econ\u00f3mica. "
+        }
+    },
+    {
+        "word": "Compa:",
+        "type": "s",
+        "definition": {
+            "0": "Abreviaci\u00f3n de compadre. Buen amigo, persona de confianza. "
+        }
+    },
+    {
+        "word": "Conflei:",
+        "type": "s",
+        "definition": {
+            "0": "Cualquier tipo de cereal. Proviene del anglicismo Corn Flakes. "
+        }
+    },
+    {
+        "word": "Congo:",
+        "type": "a",
+        "definition": {
+            "0": "Persona sumisa, benevolente, a la que se le puede pedir cualquier cosa y esta lo har\u00e1. Sin palabra propia, sin car\u00e1cter. "
+        }
+    },
+    {
+        "word": "Conguear:",
+        "type": "v",
+        "definition": {
+            "0": "Aprovecharse de la benevolencia de una persona. "
+        }
+    },
+    {
+        "word": "Corozo:",
+        "type": "s",
+        "definition": {
+            "0": "Areola del seno de la mujer. Pez\u00f3n. "
+        }
+    },
+    {
+        "word": "Correrlo:",
+        "type": "v",
+        "definition": {
+            "0": "Pasar el cigarrillo de marihuana a otra persona. "
+        }
+    },
+    {
+        "word": "Corrinche:",
+        "type": "v",
+        "definition": {
+            "0": "Relajo, desorden, principalmente en los ni\u00f1os. "
+        }
+    },
+    {
+        "word": "Cr\u00eda:",
+        "type": "s",
+        "definition": {
+            "0": "Hijo. "
+        }
+    },
+    {
+        "word": "Crispy:",
+        "type": "s",
+        "definition": {
+            "0": "Otro nombre para la marihuana. "
+        }
+    },
+    {
+        "word": "Cuajar:",
+        "type": "v",
+        "definition": {
+            "0": "Encajar, amoldarse a los est\u00e1ndares de la sociedad, o a lo que se conoce como normal. "
+        }
+    },
+    {
+        "word": "Cu\u00e1l es la que es:",
+        "type": "exp.",
+        "definition": {
+            "0": "Expresi\u00f3n de saludo. Utilizada entre los j\u00f3venes de barrio. "
+        }
+    },
+    {
+        "word": "Cuara:",
+        "type": "s",
+        "definition": {
+            "0": "Moneda de 25 centavos. Proviene del anglicismo Quarter. "
+        }
+    },
+    {
+        "word": "Cuca:",
+        "type": "s",
+        "definition": {
+            "0": "Parte \u00edntima de la mujer. "
+        }
+    },
+    {
+        "word": "Cuerear:",
+        "type": "v",
+        "definition": {
+            "0": "Llevar a cabo una acci\u00f3n. Estar dispuesto a hacer algo. "
+        }
+    },
+    {
+        "word": "Cuero:",
+        "type": "exp.",
+        "definition": {
+            "0": "Expresi\u00f3n utilizada para manifestar que se est\u00e1 dispuesto a hacer algo. "
+        }
+    },
+    {
+        "word": "Culantro:",
+        "type": "s",
+        "definition": {
+            "0": "Nalgas. "
+        }
+    },
+    {
+        "word": "Culear:",
+        "type": "v",
+        "definition": {
+            "0": "Tener relaciones sexuales. "
+        }
+    },
+    {
+        "word": "Culeco:",
+        "type": "s",
+        "definition": {
+            "0": "Fiesta callejera, generalmente en carnavales, donde se arroja agua a las personas. "
+        }
+    },
+    {
+        "word": "Culei:",
+        "type": "s",
+        "definition": {
+            "0": "Bebida azucarada preparada de manera casera. Proviene del anglicismo Kool-Aid. "
+        }
+    },
+    {
+        "word": "Culicagao:",
+        "type": "s",
+        "definition": {
+            "0": "Ni\u00f1o de corta edad. "
+        }
+    },
+    {
+        "word": "Culillo:",
+        "type": "a",
+        "definition": {
+            "0": "Miedo, pavor, temor, terror. "
+        }
+    },
+    {
+        "word": "Culiso:",
+        "type": "a",
+        "definition": {
+            "0": "Persona de piel color canela, mezcla entre blanco y moreno. "
+        }
+    },
+    {
+        "word": "Culito:",
+        "type": "s",
+        "definition": {
+            "0": "Pareja, persona con la que se tiene una relaci\u00f3n. "
+        }
+    },
+    {
+        "word": "Cuscus:",
+        "type": "a",
+        "definition": {
+            "0": "Cabello reseco y duro, dif\u00edcil de tratar. "
+        }
+    },
+    {
+        "word": "Cutarra:",
+        "type": "s",
+        "definition": {
+            "0": "Sandalia hecha de cuero, a la medida, principalmente utilizada por personas que trabajan en el campo. "
+        }
+    },
+    {
+        "word": "Dain:",
+        "type": "s",
+        "definition": {
+            "0": "Moneda de diez centavos. Proviene del anglicismo Dime, con el mismo significado. "
+        }
+    },
+    {
+        "word": "Dale valor:",
+        "type": "exp.",
+        "definition": {
+            "0": "Subirle el volumen a la m\u00fasica. "
+        }
+    },
+    {
+        "word": "De a vaina:",
+        "type": "exp.",
+        "definition": {
+            "0": "Por poco, aproximadamente. "
+        }
+    },
+    {
+        "word": "De alante:",
+        "type": "exp.",
+        "definition": {
+            "0": "Persona que est\u00e1 a la vanguardia, a la moda, sigue las tendencias. "
+        }
+    },
+    {
+        "word": "De la nada:",
+        "type": "exp.",
+        "definition": {
+            "0": "Cuando se da un suceso sin previo aviso, por sorpresa. No se ve\u00eda venir. "
+        }
+    },
+    {
+        "word": "De una:",
+        "type": "exp.",
+        "definition": {
+            "0": "Hacer algo de manera inmediata, sin demora, sin retrasos. "
+        }
+    },
+    {
+        "word": "Diablo rojo:",
+        "type": "s",
+        "definition": {
+            "0": "Bus, medio de transporte colectivo. S\u00f3lo existe en la ciudad capital, conocidos por estar pintados y llenos de im\u00e1genes y figuras, por su estrepitoso ruido y contaminaci\u00f3n evidente, son buses escolares norteamericanos que ya no utilizan m\u00e1s all\u00e1, la mayor\u00eda de las veces por fallos mec\u00e1nicos. "
+        }
+    },
+    {
+        "word": "Diq:",
+        "type": "exp.",
+        "definition": {
+            "0": "Abreviaci\u00f3n de Dizque. Utilizado como intersecci\u00f3n. Supuestamente, seg\u00fan dice, seg\u00fan parece; puede indicar iron\u00eda o duda. "
+        }
+    },
+    {
+        "word": "Dique:",
+        "type": "exp.",
+        "definition": {
+            "0": "Abreviaci\u00f3n de Dizque. Utilizado como intersecci\u00f3n. Supuestamente, seg\u00fan dice, seg\u00fan parece; puede indicar iron\u00eda o duda. "
+        }
+    },
+    {
+        "word": "Disq:",
+        "type": "exp.",
+        "definition": {
+            "0": "Abreviaci\u00f3n de Disque. Utilizado como intersecci\u00f3n. Supuestamente, seg\u00fan dice, seg\u00fan parece; puede indicar iron\u00eda o duda. "
+        }
+    },
+    {
+        "word": "Disque:",
+        "type": "exp.",
+        "definition": {
+            "0": "Utilizado como intersecci\u00f3n. Supuestamente, seg\u00fan dice, seg\u00fan parece; puede indicar iron\u00eda o duda. "
+        }
+    },
+    {
+        "word": "DLN:",
+        "type": "acr.",
+        "definition": {
+            "0": "De La Nada. Cuando se da un suceso sin previo aviso, por sorpresa. No se ve\u00eda venir. "
+        }
+    },
+    {
+        "word": "Duro:",
+        "type": "a",
+        "definition": {
+            "0": "Persona avara, taca\u00f1a. Que no le gusta gastar dinero. "
+        }
+    },
+    {
+        "word": "Embolillarse:",
+        "type": "v",
+        "definition": {
+            "0": "Involucrarse en una pelea a golpes con otra persona. "
+        }
+    },
+    {
+        "word": "Emputarse:",
+        "type": "v",
+        "definition": {
+            "0": "Molestarse, enfadarse, enojarse. "
+        }
+    },
+    {
+        "word": "Emputaz\u00f3n:",
+        "type": "s",
+        "definition": {
+            "0": "Estar molesto, enfadado, enojado. "
+        }
+    },
+    {
+        "word": "En fuego:",
+        "type": "exp.",
+        "definition": {
+            "0": "Despu\u00e9s de haber tomado un poco de alcohol, sin llegar al estado et\u00edlico. Despu\u00e9s de un par de copas. "
+        }
+    },
+    {
+        "word": "En la papa:",
+        "type": "exp.",
+        "definition": {
+            "0": "D\u00edcese del que se encuentra en un buen momento econ\u00f3mica y socialmente hablando. Contrario de en la podrida. "
+        }
+    },
+    {
+        "word": "En la podrida:",
+        "type": "exp.",
+        "definition": {
+            "0": "D\u00edcese del que se encuentra en un buen momento econ\u00f3mica y socialmente hablando. Contrario de en la podrida. "
+        }
+    },
+    {
+        "word": "En panga:",
+        "type": "exp.",
+        "definition": {
+            "0": "Persona o cosa que no llama la atenci\u00f3n, que no merece m\u00e9ritos. No es la mejor opci\u00f3n, suele fallar y no ser bueno. "
+        }
+    },
+    {
+        "word": "En tuco:",
+        "type": "exp.",
+        "definition": {
+            "0": "Persona o cosa que no llama la atenci\u00f3n, que no merece m\u00e9ritos. No es la mejor opci\u00f3n, suele fallar y no ser bueno. "
+        }
+    },
+    {
+        "word": "En verga:",
+        "type": "exp.",
+        "definition": {
+            "0": "Persona o cosa que no llama la atenci\u00f3n, que no merece m\u00e9ritos. No es la mejor opci\u00f3n, suele fallar y no ser bueno. "
+        }
+    },
+    {
+        "word": "En vergs:",
+        "type": "exp.",
+        "definition": {
+            "0": "Persona o cosa que no llama la atenci\u00f3n, que no merece m\u00e9ritos. No es la mejor opci\u00f3n, suele fallar y no ser bueno. "
+        }
+    },
+    {
+        "word": "Enante:",
+        "type": "exp.",
+        "definition": {
+            "0": "Para indicar que algo sucedi\u00f3 hace pocos minutos atr\u00e1s. Hace un rato. "
+        }
+    },
+    {
+        "word": "Encularse:",
+        "type": "v",
+        "definition": {
+            "0": "Enamorarse, tener pareja. "
+        }
+    },
+    {
+        "word": "Enfrascar:",
+        "type": "v",
+        "definition": {
+            "0": "Involucrarse en una pelea a golpes con otra persona. "
+        }
+    },
+    {
+        "word": "Engomao:",
+        "type": "a",
+        "definition": {
+            "0": "Con resaca. Malestar estomacal, dolores de cabeza, despu\u00e9s de haber ingerido alcohol. "
+        }
+    },
+    {
+        "word": "Enterrar la coa:",
+        "type": "exp.",
+        "definition": {
+            "0": "Tener relaciones sexuales. "
+        }
+    },
+    {
+        "word": "Entoldao:",
+        "type": "a",
+        "definition": {
+            "0": "Con una erecci\u00f3n. "
+        }
+    },
+    {
+        "word": "Entoldarse:",
+        "type": "v",
+        "definition": {
+            "0": "Tener una erecci\u00f3n. "
+        }
+    },
+    {
+        "word": "Envainar:",
+        "type": "v",
+        "definition": {
+            "0": "Llamar la atenci\u00f3n a alguien, rega\u00f1ar, sermonear. "
+        }
+    },
+    {
+        "word": "Escarchar:",
+        "type": "v",
+        "definition": {
+            "0": "Abrir las piernas. "
+        }
+    },
+    {
+        "word": "Espelucao:",
+        "type": "a",
+        "definition": {
+            "0": "Despelucado, sin un peinado decente. "
+        }
+    },
+    {
+        "word": "Estirar la pata:",
+        "type": "exp.",
+        "definition": {
+            "0": "Morir. "
+        }
+    },
+    {
+        "word": "Fantasmeado:",
+        "type": "a",
+        "definition": {
+            "0": "Hacer algo a escondidas, sin llamar la atenci\u00f3n. Generalmente para describir una relaci\u00f3n secreta con alguien m\u00e1s. "
+        }
+    },
+    {
+        "word": "Farachera:",
+        "type": "s",
+        "definition": {
+            "0": "Malestar generado por un evento importante. Sudoraci\u00f3n, mareos, debilitaci\u00f3n, ganas de desmayarse. "
+        }
+    },
+    {
+        "word": "Ficha:",
+        "type": "s",
+        "definition": {
+            "0": "Persona importante, con gran reputaci\u00f3n en lo que hace. "
+        }
+    },
+    {
+        "word": "Filo:",
+        "type": "s",
+        "definition": {
+            "0": "Cuchillo, principalmente utilizado como arma. "
+        }
+    },
+    {
+        "word": "Focop:",
+        "type": "a",
+        "definition": {
+            "0": "Que algo est\u00e1 mal, no est\u00e1 en su mejor momento o posici\u00f3n. No es favorable. Proviene del anglicismo fucked up. "
+        }
+    },
+    {
+        "word": "Forro:",
+        "type": "s",
+        "definition": {
+            "0": "Cond\u00f3n. "
+        }
+    },
+    {
+        "word": "Fren:",
+        "type": "s",
+        "definition": {
+            "0": "Amigo. Friend. "
+        }
+    },
+    {
+        "word": "Frentiar:",
+        "type": "v",
+        "definition": {
+            "0": "Enfrentar, confrontar, encarar a alguien o alguna situaci\u00f3n. "
+        }
+    },
+    {
+        "word": "Frulo:",
+        "type": "exp.",
+        "definition": {
+            "0": "Miedo, pavor, temor, terror. "
+        }
+    },
+    {
+        "word": "Fula:",
+        "type": "exp.",
+        "definition": {
+            "0": "Mujer de cabellos rubios. "
+        }
+    },
+    {
+        "word": "Fulo:",
+        "type": "exp.",
+        "definition": {
+            "0": "Hombre de cabellos rubios. "
+        }
+    },
+    {
+        "word": "Fundillo:",
+        "type": "s",
+        "definition": {
+            "0": "Trasero, nalgas, ano. "
+        }
+    },
+    {
+        "word": "Gallinero:",
+        "type": "s",
+        "definition": {
+            "0": "Parte m\u00e1s concurrida, barata y popular de un lugar. "
+        }
+    },
+    {
+        "word": "Gallo:",
+        "type": "a",
+        "definition": {
+            "0": "Algo que no es aut\u00e9ntico. Falta de legitimidad. "
+        }
+    },
+    {
+        "word": "Gargajo:",
+        "type": "s",
+        "definition": {
+            "0": "Mucosidad que se forma en las v\u00edas respiratorias y se expulsa por la boca. "
+        }
+    },
+    {
+        "word": "Garnat\u00f3n:",
+        "type": "s",
+        "definition": {
+            "0": "Golpe con las manos. "
+        }
+    },
+    {
+        "word": "Gial:",
+        "type": "s",
+        "definition": {
+            "0": "Mujer, muchacha, joven. Proviene del anglicismo girl. "
+        }
+    },
+    {
+        "word": "Golpe de ala:",
+        "type": "exp.",
+        "definition": {
+            "0": "Olor producido por la sudoraci\u00f3n de las axilas. "
+        }
+    },
+    {
+        "word": "Gorrero:",
+        "type": "a",
+        "definition": {
+            "0": "Persona que se aprovecha de los bienes de otro, sin el haberlos pagado. "
+        }
+    },
+    {
+        "word": "Grajo:",
+        "type": "s",
+        "definition": {
+            "0": "Olor producido por la sudoraci\u00f3n de las axilas. "
+        }
+    },
+    {
+        "word": "Gringo:",
+        "type": "s",
+        "definition": {
+            "0": "Persona proveniente de Estados Unidos de Am\u00e9rica. "
+        }
+    },
+    {
+        "word": "Grubear:",
+        "type": "v",
+        "definition": {
+            "0": "Besar, acariciar, manosear a una persona. Tener una relaci\u00f3n no formal con alguien. "
+        }
+    },
+    {
+        "word": "Grubeo:",
+        "type": "s",
+        "definition": {
+            "0": "Persona con la que se grubea. Besar, acariciar, manosear a una persona. Con quien se tiene una relaci\u00f3n no formal. "
+        }
+    },
+    {
+        "word": "Guabanazo:",
+        "type": "s",
+        "definition": {
+            "0": "Golpe a la cabeza. "
+        }
+    },
+    {
+        "word": "Guacha:",
+        "type": "exp.",
+        "definition": {
+            "0": "Hasta la Guacha. Estar desali\u00f1ado, descuidado, zarrapastroso. Generalmente utilizado para referirse a personas en estado et\u00edlico. "
+        }
+    },
+    {
+        "word": "Guachim\u00e1n:",
+        "type": "s",
+        "definition": {
+            "0": "Guardia de seguridad, que generalmente trabaja por las noches. Celador. "
+        }
+    },
+    {
+        "word": "Guaro:",
+        "type": "s",
+        "definition": {
+            "0": "Alcohol, ya sea seco, ron, vodka, o de cualquier tipo. "
+        }
+    },
+    {
+        "word": "Guayabo:",
+        "type": "s",
+        "definition": {
+            "0": "Resaca, goma. "
+        }
+    },
+    {
+        "word": "Guilla:",
+        "type": "s",
+        "definition": {
+            "0": "Confusi\u00f3n, problema, desorden de ideas, despiste. "
+        }
+    },
+    {
+        "word": "Guillado:",
+        "type": "a",
+        "definition": {
+            "0": "Persona que tiene una confusi\u00f3n, muchas ideas en la cabeza, lo cual dificulta tomar una decisi\u00f3n. Despistado. "
+        }
+    },
+    {
+        "word": "Happy:",
+        "type": "a",
+        "definition": {
+            "0": "Persona que ha ingerido alcohol, pero sin llegar al estado et\u00edlico. "
+        }
+    },
+    {
+        "word": "Hartura:",
+        "type": "s",
+        "definition": {
+            "0": "Saciado, despu\u00e9s de comer mucha comida. "
+        }
+    },
+    {
+        "word": "Hasta el culo:",
+        "type": "exp.",
+        "definition": {
+            "0": "Persona que ha ingerido grandes cantidades de alcohol, hasta el punto que no puede controlarse. Estar muy borracho. "
+        }
+    },
+    {
+        "word": "Hasta el metal:",
+        "type": "exp.",
+        "definition": {
+            "0": "Bailar hasta abajo. "
+        }
+    },
+    {
+        "word": "Hecho le\u00f1a:",
+        "type": "a",
+        "definition": {
+            "0": "Da\u00f1ado, percudido, deteriorado. "
+        }
+    },
+    {
+        "word": "Huev\u00f3n:",
+        "type": "a",
+        "definition": {
+            "0": "Persona vaga, holgaz\u00e1n, perezoso, que no hace nada por s\u00ed mismo. "
+        }
+    },
+    {
+        "word": "Jale:",
+        "type": "s",
+        "definition": {
+            "0": "Una inhalada de un cigarrillo. "
+        }
+    },
+    {
+        "word": "Jamaquear:",
+        "type": "v",
+        "definition": {
+            "0": "Revolver, zarandear, agitar, sacurdir. "
+        }
+    },
+    {
+        "word": "Jam\u00f3n:",
+        "type": "v",
+        "definition": {
+            "0": "Persona torpe, incapaz, inepto. "
+        }
+    },
+    {
+        "word": "Jo:",
+        "type": "exp.",
+        "definition": {
+            "0": "Utilizado como interjecci\u00f3n. "
+        }
+    },
+    {
+        "word": "Jodedera:",
+        "type": "s",
+        "definition": {
+            "0": "Estar molestando, fastidiando a alguien. "
+        }
+    },
+    {
+        "word": "Joder:",
+        "type": "v",
+        "definition": {
+            "0": "Molestar, fastidiar, estropear. "
+        }
+    },
+    {
+        "word": "Judi:",
+        "type": "s",
+        "definition": {
+            "0": "Para referirse a alguien sin importancia. Generalmente utilizado en algunas \u00e1reas del interior del pa\u00eds. "
+        }
+    },
+    {
+        "word": "Juega vivo:",
+        "type": "exp.",
+        "definition": {
+            "0": "Mantente alerta, pendiente. "
+        }
+    },
+    {
+        "word": "Kb:",
+        "type": "a",
+        "definition": {
+            "0": "Abreviaci\u00f3n de cabreado. Molesto, bravo, fastidiado. "
+        }
+    },
+    {
+        "word": "Kenke:",
+        "type": "s",
+        "definition": {
+            "0": "Marihuana. "
+        }
+    },
+    {
+        "word": "Ket\u00f3n:",
+        "type": "s",
+        "definition": {
+            "0": "Cajeta de cigarrillos. "
+        }
+    },
+    {
+        "word": "Kosh:",
+        "type": "s",
+        "definition": {
+            "0": "Cigarrillo. "
+        }
+    },
+    {
+        "word": "La ley:",
+        "type": "s",
+        "definition": {
+            "0": "Persona con autoridad, generalmente se utiliza para referirse a la pareja de alguien, los padres, el jefe, la polic\u00eda, etc. "
+        }
+    },
+    {
+        "word": "Lacra:",
+        "type": "s",
+        "definition": {
+            "0": "Persona de un barrio bajo, generalmente asociado con pandilleros y maleantes. "
+        }
+    },
+    {
+        "word": "Lagartear:",
+        "type": "v",
+        "definition": {
+            "0": "Ir en busca de mujeres, generalmente insinu\u00e1ndole a varias a la vez a ver cu\u00e1l cae. "
+        }
+    },
+    {
+        "word": "Lagarto:",
+        "type": "v",
+        "definition": {
+            "0": "Persona, generalmente hombre, que intenta cortejar a varias mujeres en un sitio. "
+        }
+    },
+    {
+        "word": "Laiter:",
+        "type": "s",
+        "definition": {
+            "0": "Encendedor, proviene del anglicismo lighter. "
+        }
+    },
+    {
+        "word": "Lamparoso:",
+        "type": "a",
+        "definition": {
+            "0": "Alguien que quiere llamar la atenci\u00f3n. "
+        }
+    },
+    {
+        "word": "Laope:",
+        "type": "a",
+        "definition": {
+            "0": "Abreviaci\u00f3n de lapecillo. J\u00f3ven, de corta edad. "
+        }
+    },
+    {
+        "word": "Lape:",
+        "type": "a",
+        "definition": {
+            "0": "Abreviaci\u00f3n de lapecillo. J\u00f3ven, de corta edad. "
+        }
+    },
+    {
+        "word": "Lapecillo:",
+        "type": "a",
+        "definition": {
+            "0": "J\u00f3ven, de corta edad. "
+        }
+    },
+    {
+        "word": "Le doy:",
+        "type": "exp.",
+        "definition": {
+            "0": "Estar dispuesto a tener relaciones sexuales con una persona. "
+        }
+    },
+    {
+        "word": "Le entro:",
+        "type": "exp.",
+        "definition": {
+            "0": "Estar dispuesto a tener relaciones sexuales con una persona. "
+        }
+    },
+    {
+        "word": "Le meto:",
+        "type": "exp.",
+        "definition": {
+            "0": "Estar dispuesto a tener relaciones sexuales con una persona. "
+        }
+    },
+    {
+        "word": "Leche:",
+        "type": "s",
+        "definition": {
+            "0": "S\u00e9men. "
+        }
+    },
+    {
+        "word": "Levantar:",
+        "type": "v",
+        "definition": {
+            "0": "Enamorar, conquistar, cortejar a alguien. "
+        }
+    },
+    {
+        "word": "Levante:",
+        "type": "s",
+        "definition": {
+            "0": "Persona a la que se ha enamorado o conquistado. Persona con la que se tiene una relaci\u00f3n. "
+        }
+    },
+    {
+        "word": "Likibuay:",
+        "type": "s",
+        "definition": {
+            "0": "Ni\u00f1o peque\u00f1o, de corta edad. "
+        }
+    },
+    {
+        "word": "Limpio:",
+        "type": "a",
+        "definition": {
+            "0": "Persona sin dinero. "
+        }
+    },
+    {
+        "word": "Lince:",
+        "type": "s",
+        "definition": {
+            "0": "Polic\u00eda que se moviliza y patrulla en motocicletas. "
+        }
+    },
+    {
+        "word": "Lipidia:",
+        "type": "s",
+        "definition": {
+            "0": "Miseria, pobreza, mala situaci\u00f3n econ\u00f3mica. "
+        }
+    },
+    {
+        "word": "Llantear:",
+        "type": "v",
+        "definition": {
+            "0": "Hacer mejor algo que otra persona, hacerlo m\u00e1s deprisa, ir m\u00e1s r\u00e1pido que alguien m\u00e1s. "
+        }
+    },
+    {
+        "word": "Maceta:",
+        "type": "a",
+        "definition": {
+            "0": "Persona tonta, bobo, torpe. "
+        }
+    },
+    {
+        "word": "Machete:",
+        "type": "s",
+        "definition": {
+            "0": "Herramienta de metal para realizar cortes, de metal y con un mango generalmente de pl\u00e1stico o madera. Frecuentemente utilizado en el interior en trabajos de campo. "
+        }
+    },
+    {
+        "word": "Maf\u00e1:",
+        "type": "s",
+        "definition": {
+            "0": "Peque\u00f1o pan frito, con sal, conocido por su forma de trenza. "
+        }
+    },
+    {
+        "word": "Mal trip:",
+        "type": "s",
+        "definition": {
+            "0": "Experiencia mala, no muy favorable. Con m\u00e1s aspectos negativos que positivos. "
+        }
+    },
+    {
+        "word": "Mal tripearse:",
+        "type": "v",
+        "definition": {
+            "0": "Cuando una mala experiencia te hace pasar un mal rato, cuando algo que sucedi\u00f3 te baja los \u00e1nimos. "
+        }
+    },
+    {
+        "word": "Maleante:",
+        "type": "s",
+        "definition": {
+            "0": "Persona de barrios bajos, asociada al mundo del crimen. "
+        }
+    },
+    {
+        "word": "Mamallena:",
+        "type": "s",
+        "definition": {
+            "0": "Dulce muy popular, se hace en base a pan. "
+        }
+    },
+    {
+        "word": "Mamando cable:",
+        "type": "exp.",
+        "definition": {
+            "0": "Pasando una mala situaci\u00f3n econ\u00f3mica y social. "
+        }
+    },
+    {
+        "word": "Mami:",
+        "type": "exp.",
+        "definition": {
+            "0": "Mujer bella, de esbelta figura. "
+        }
+    },
+    {
+        "word": "Manga larga:",
+        "type": "s",
+        "definition": {
+            "0": "Botella de cerveza de mayor tama\u00f1o que las regulares, con casi un litro de contenido. "
+        }
+    },
+    {
+        "word": "Mangos bajitos:",
+        "type": "exp.",
+        "definition": {
+            "0": "Aprovecharse de las situaciones sencillas, que no requieren un gran esfuerzo. "
+        }
+    },
+    {
+        "word": "Manin:",
+        "type": "s",
+        "definition": {
+            "0": "Hermano, mejor amigo, para referirse a alguien de mucha confianza o una amistad de mucha trayectoria. "
+        }
+    },
+    {
+        "word": "Mano:",
+        "type": "s",
+        "definition": {
+            "0": "Hermano, mejor amigo, para referirse a alguien de mucha confianza o una amistad de mucha trayectoria. "
+        }
+    },
+    {
+        "word": "Manso: [a] - Se utiliza antes de un sujeto, para expresar que aquel objeto o persona tiene un gran nivel. Ej. Manso carro:",
+        "type": "a",
+        "definition": {
+            "0": "Se utiliza antes de un sujeto, para expresar que aquel objeto o persona tiene un gran nivel. Ej. Manso carro: \u201cQue buen carro.\u201d "
+        }
+    },
+    {
+        "word": "Manuela:",
+        "type": "s",
+        "definition": {
+            "0": "La masturbaci\u00f3n, generalmente la masculina. "
+        }
+    },
+    {
+        "word": "Manzanillo:",
+        "type": "s",
+        "definition": {
+            "0": "Seguidor, entusiasta de alguien, generalmente de una persona con alg\u00fan rango social o econ\u00f3mico. "
+        }
+    },
+    {
+        "word": "Maquinear:",
+        "type": "v",
+        "definition": {
+            "0": "Pensando m\u00e1s de lo debido en un solo tema o situaci\u00f3n. "
+        }
+    },
+    {
+        "word": "Marear:",
+        "type": "v",
+        "definition": {
+            "0": "Confundir, enredar, desconcertar. "
+        }
+    },
+    {
+        "word": "Maricon:",
+        "type": "v",
+        "definition": {
+            "0": "Gay, Homosexual. "
+        }
+    },
+    {
+        "word": "Matapuerco:",
+        "type": "s",
+        "definition": {
+            "0": "Golpe con el pu\u00f1o cerrado. "
+        }
+    },
+    {
+        "word": "Matar:",
+        "type": "v",
+        "definition": {
+            "0": "Masturbarse. "
+        }
+    },
+    {
+        "word": "Me vale verga:",
+        "type": "exp.",
+        "definition": {
+            "0": "No me importa, me importa un bledo. "
+        }
+    },
+    {
+        "word": "Mear:",
+        "type": "v",
+        "definition": {
+            "0": "Orinar. "
+        }
+    },
+    {
+        "word": "Me\u00f1a:",
+        "type": "s",
+        "definition": {
+            "0": "Persona procedente de un barrio bajo o popular, generalmente asociado al vandalismo. "
+        }
+    },
+    {
+        "word": "Menjunje:",
+        "type": "s",
+        "definition": {
+            "0": "Confusi\u00f3n, mezcla. "
+        }
+    },
+    {
+        "word": "Merfi:",
+        "type": "exp.",
+        "definition": {
+            "0": "Firme, con actitud, sin flaquear. "
+        }
+    },
+    {
+        "word": "Meter mente:",
+        "type": "exp.",
+        "definition": {
+            "0": "Pensar, analizar, meditar, reflexionar. "
+        }
+    },
+    {
+        "word": "Meto:",
+        "type": "exp.",
+        "definition": {
+            "0": "Sin definici\u00f3n, utilizado como interjecci\u00f3n, principalmente por personas de la provincia de Chiriqu\u00ed. "
+        }
+    },
+    {
+        "word": "Micho:",
+        "type": "s",
+        "definition": {
+            "0": "Gato. "
+        }
+    },
+    {
+        "word": "Mili:",
+        "type": "exp.",
+        "definition": {
+            "0": "Sin preparaci\u00f3n, inesperado, sin preparativos. "
+        }
+    },
+    {
+        "word": "Millo:",
+        "type": "s",
+        "definition": {
+            "0": "Palomitas de ma\u00edz. "
+        }
+    },
+    {
+        "word": "Mococoa:",
+        "type": "s",
+        "definition": {
+            "0": "Estado de malhumor que tiene una persona. "
+        }
+    },
+    {
+        "word": "Mojar el perro:",
+        "type": "exp.",
+        "definition": {
+            "0": "Tener relaciones sexuales. "
+        }
+    },
+    {
+        "word": "Montado:",
+        "type": "a",
+        "definition": {
+            "0": "En buena situaci\u00f3n econ\u00f3mica, generalmente por tener un buen autom\u00f3vil. "
+        }
+    },
+    {
+        "word": "Mopri:",
+        "type": "s",
+        "definition": {
+            "0": "Persona de confianza, amigo. "
+        }
+    },
+    {
+        "word": "Mota:",
+        "type": "s",
+        "definition": {
+            "0": "Partes \u00edntimas de la mujer. "
+        }
+    },
+    {
+        "word": "Mover el piso:",
+        "type": "exp.",
+        "definition": {
+            "0": "Llamar la atenci\u00f3n de alguien, generalmente de forma amorosa. "
+        }
+    },
+    {
+        "word": "Mula:",
+        "type": "s",
+        "definition": {
+            "0": "Cami\u00f3n de gran tama\u00f1o. "
+        }
+    },
+    {
+        "word": "Mulear:",
+        "type": "v",
+        "definition": {
+            "0": "Caminar. "
+        }
+    },
+    {
+        "word": "Na':",
+        "type": "exp.",
+        "definition": {
+            "0": "Abreviaci\u00f3n de nada. "
+        }
+    },
+    {
+        "word": "\u00d1\u00e1\u00f1ara:",
+        "type": "exp.",
+        "definition": {
+            "0": "Miedo, temor. "
+        }
+    },
+    {
+        "word": "\u00d1a\u00f1o:",
+        "type": "exp.",
+        "definition": {
+            "0": "Gay, homosexual. "
+        }
+    },
+    {
+        "word": "\u00d1ao:",
+        "type": "s",
+        "definition": {
+            "0": "Abreviaci\u00f3n de cu\u00f1ado. "
+        }
+    },
+    {
+        "word": "\u00d1apa:",
+        "type": "s",
+        "definition": {
+            "0": "Parte extra que se obtiene al comprar un producto, generalmente esta parte no est\u00e1 incluida en el costo. "
+        }
+    },
+    {
+        "word": "Nave:",
+        "type": "s",
+        "definition": {
+            "0": "Carro, generalmente de buena apariencia. "
+        }
+    },
+    {
+        "word": "\u00d1eks:",
+        "type": "s",
+        "definition": {
+            "0": "Al caerse, golpearse muy fuerte. "
+        }
+    },
+    {
+        "word": "Nightrain:",
+        "type": "s",
+        "definition": {
+            "0": "Baja panty. "
+        }
+    },
+    {
+        "word": "Nini:",
+        "type": "a",
+        "definition": {
+            "0": "Persona, generalmente en sus veinte a\u00f1os, que ni trabaja ni estudia. Vago, dependiente. "
+        }
+    },
+    {
+        "word": "Nombe:",
+        "type": "epx.",
+        "definition": {
+            "0": "Utilizado como interjecci\u00f3n, para expresar decepci\u00f3n, desencanto, desilusi\u00f3n. "
+        }
+    },
+    {
+        "word": "\u00d1orro:",
+        "type": "a",
+        "definition": {
+            "0": "Gay, homosexual. "
+        }
+    },
+    {
+        "word": "Nos pillamos:",
+        "type": "exp.",
+        "definition": {
+            "0": "Nos vemos luego. "
+        }
+    },
+    {
+        "word": "Ofi:",
+        "type": "exp.",
+        "definition": {
+            "0": "Abreviaci\u00f3n de oficial. Se utiliza para afirmar, asentir, confirmar, reiterar. "
+        }
+    },
+    {
+        "word": "Ojue:",
+        "type": "exp.",
+        "definition": {
+            "0": "Sin definici\u00f3n, se utiliza como interjecci\u00f3n, generalmente utilizado por personas del interior del pa\u00eds. "
+        }
+    },
+    {
+        "word": "On:",
+        "type": "exp.",
+        "definition": {
+            "0": "No. "
+        }
+    },
+    {
+        "word": "Pa':",
+        "type": "exp.",
+        "definition": {
+            "0": "Abreviaci\u00f3n de para. "
+        }
+    },
+    {
+        "word": "Pa' la bajada:",
+        "type": "exp.",
+        "definition": {
+            "0": "Al final de una situaci\u00f3n, de un acontecimiento. "
+        }
+    },
+    {
+        "word": "Pa' lante:",
+        "type": "exp.",
+        "definition": {
+            "0": "Irse de un lugar o apartarse de una situaci\u00f3n. "
+        }
+    },
+    {
+        "word": "Pajizo:",
+        "type": "a",
+        "definition": {
+            "0": "Persona que se masturba con mucha frecuencia. "
+        }
+    },
+    {
+        "word": "Palanca:",
+        "type": "s",
+        "definition": {
+            "0": "Persona a la que se le puede pedir un favor dentro de alguna instituci\u00f3n, para recibir un servicio que los dem\u00e1s no podr\u00edan obtener. "
+        }
+    },
+    {
+        "word": "P\u00e1nfilo:",
+        "type": "a",
+        "definition": {
+            "0": "Persona torpe, tonta, que nada le sale bien. "
+        }
+    },
+    {
+        "word": "Panga:",
+        "type": "a",
+        "definition": {
+            "0": "D\u00edcese de algo o alguien malo, que no funciona bien. Que no es el mejor. "
+        }
+    },
+    {
+        "word": "Papa en la boca:",
+        "type": "exp.",
+        "definition": {
+            "0": "Modo de hablar de algunas personas de cierto estrato social. "
+        }
+    },
+    {
+        "word": "Papau:",
+        "type": "s",
+        "definition": {
+            "0": "Golpe que se les da a los ni\u00f1os, generalmente suave, para mejorar su comportamiento. "
+        }
+    },
+    {
+        "word": "Paquete:",
+        "type": "a",
+        "definition": {
+            "0": "Persona torpe, tonta, que nada le sale bien. "
+        }
+    },
+    {
+        "word": "Paracaidas:",
+        "type": "a",
+        "definition": {
+            "0": "Persona que llega a un lugar sin ser invitado. "
+        }
+    },
+    {
+        "word": "Parkin:",
+        "type": "s",
+        "definition": {
+            "0": "Reuni\u00f3n en casa de alg\u00fan amigo o un sitio tranquilo, para socializar y tomar algunos tragos. "
+        }
+    },
+    {
+        "word": "Pasa\u00edsimo:",
+        "type": "a",
+        "definition": {
+            "0": "Algo muy bueno, excelente. "
+        }
+    },
+    {
+        "word": "Pasao:",
+        "type": "a",
+        "definition": {
+            "0": "Algo bueno, excelente. "
+        }
+    },
+    {
+        "word": "Pasiero:",
+        "type": "s",
+        "definition": {
+            "0": "Amigo, persona de mucha confianza. "
+        }
+    },
+    {
+        "word": "Patac\u00f3n:",
+        "type": "s",
+        "definition": {
+            "0": "Pedazos de pl\u00e1tano verde aplastado, frito. "
+        }
+    },
+    {
+        "word": "Pataconsito:",
+        "type": "s",
+        "definition": {
+            "0": "Lugar donde se acumula basura. "
+        }
+    },
+    {
+        "word": "Patatus:",
+        "type": "s",
+        "definition": {
+            "0": "Ataque de nervios. "
+        }
+    },
+    {
+        "word": "Pato:",
+        "type": "a",
+        "definition": {
+            "0": "Gay, homosexual. "
+        }
+    },
+    {
+        "word": "Pavo:",
+        "type": "s",
+        "definition": {
+            "0": "Ayudante del conductor de un bus de pasajeros. "
+        }
+    },
+    {
+        "word": "Pay:",
+        "type": "s",
+        "definition": {
+            "0": "Mujer de gran belleza, con buen cuerpo y buena apariencia. "
+        }
+    },
+    {
+        "word": "Pebre:",
+        "type": "s",
+        "definition": {
+            "0": "Comida. "
+        }
+    },
+    {
+        "word": "Pechito:",
+        "type": "s",
+        "definition": {
+            "0": "Juego entre dos personas, en la que uno juega como portero y le arroja una pelota al pecho del otro y este debe maniobrarla para patearla y meter gol. "
+        }
+    },
+    {
+        "word": "Pechito pa abajo:",
+        "type": "s",
+        "definition": {
+            "0": "Juego de ni\u00f1os en el que se pegan en el torso a ver cu\u00e1l de los dos resiste m\u00e1s tiempo. "
+        }
+    },
+    {
+        "word": "Pecueca:",
+        "type": "s",
+        "definition": {
+            "0": "Mal olor en el cuerpo. "
+        }
+    },
+    {
+        "word": "Peg\u00f3n:",
+        "type": "s",
+        "definition": {
+            "0": "Tipo de droga. "
+        }
+    },
+    {
+        "word": "Pel\u00e1':",
+        "type": "s",
+        "definition": {
+            "0": "Muchacha joven. "
+        }
+    },
+    {
+        "word": "Pelaito:",
+        "type": "s",
+        "definition": {
+            "0": "Ni\u00f1o de corta edad. "
+        }
+    },
+    {
+        "word": "Pelao:",
+        "type": "s",
+        "definition": {
+            "0": "Muchacho joven. "
+        }
+    },
+    {
+        "word": "Pelar el bollo:",
+        "type": "exp.",
+        "definition": {
+            "0": "Morir "
+        }
+    },
+    {
+        "word": "Pellorro:",
+        "type": "a",
+        "definition": {
+            "0": "Persona que se echa muchos gases. "
+        }
+    },
+    {
+        "word": "Pelo pelo:",
+        "type": "s",
+        "definition": {
+            "0": "Tener sexo. "
+        }
+    },
+    {
+        "word": "Pelonera:",
+        "type": "s",
+        "definition": {
+            "0": "Juego de ni\u00f1os en el que se le da golpes en la cabeza a uno de ellos. "
+        }
+    },
+    {
+        "word": "Pelos en la lengua:",
+        "type": "exp.",
+        "definition": {
+            "0": "Hablar sin tapujos, sin obviar ni censurar nada. "
+        }
+    },
+    {
+        "word": "Peo:",
+        "type": "s",
+        "definition": {
+            "0": "Gas intestinal. "
+        }
+    },
+    {
+        "word": "Pepas:",
+        "type": "s",
+        "definition": {
+            "0": "Test\u00edculos. "
+        }
+    },
+    {
+        "word": "Pepero:",
+        "type": "a",
+        "definition": {
+            "0": "Persona desali\u00f1ada, desarreglada, descuidado. "
+        }
+    },
+    {
+        "word": "Pepitas en la lengua:",
+        "type": "exp.",
+        "definition": {
+            "0": "Hablar sin tapujos, sin obviar ni censurar nada. "
+        }
+    },
+    {
+        "word": "Pep\u00f3n:",
+        "type": "a",
+        "definition": {
+            "0": "Persona vaga, que espera que los dem\u00e1s le hagan lo que \u00e9l debe hacer. "
+        }
+    },
+    {
+        "word": "Perro:",
+        "type": "a",
+        "definition": {
+            "0": "Persona que no es fiel, tiene muchas parejas. "
+        }
+    },
+    {
+        "word": "Perr\u00f3n:",
+        "type": "a",
+        "definition": {
+            "0": "Persona que prefiere pasar dificultades antes de pagar por algo que se lo facilitar\u00eda. "
+        }
+    },
+    {
+        "word": "Peso:",
+        "type": "s",
+        "definition": {
+            "0": "Moneda de cincuenta centavos. "
+        }
+    },
+    {
+        "word": "Pezu\u00f1a:",
+        "type": "s",
+        "definition": {
+            "0": "U\u00f1as de los pies. "
+        }
+    },
+    {
+        "word": "Picando:",
+        "type": "a",
+        "definition": {
+            "0": "Estar de moda, en boca de todos. "
+        }
+    },
+    {
+        "word": "Pico:",
+        "type": "s",
+        "definition": {
+            "0": "Parte \u00edntima masculina. "
+        }
+    },
+    {
+        "word": "Piedra:",
+        "type": "s",
+        "definition": {
+            "0": "Tipo de droga. "
+        }
+    },
+    {
+        "word": "Piedrero:",
+        "type": "s",
+        "definition": {
+            "0": "Persona que vive en la calle, vagabundo. Generalmente llegan a esa situaci\u00f3n por su adicci\u00f3n a las drogas. "
+        }
+    },
+    {
+        "word": "Pifear:",
+        "type": "v",
+        "definition": {
+            "0": "Alardear, jactarse, vanagloriarse. "
+        }
+    },
+    {
+        "word": "Pilar:",
+        "type": "v",
+        "definition": {
+            "0": "Estudiar intensamente. "
+        }
+    },
+    {
+        "word": "Pilinqui:",
+        "type": "a",
+        "definition": {
+            "0": "Persona avara, que no le gusta gastar dinero. "
+        }
+    },
+    {
+        "word": "Pillar:",
+        "type": "exp.",
+        "definition": {
+            "0": "Mirar, ojear, observar. "
+        }
+    },
+    {
+        "word": "Pinga:",
+        "type": "s",
+        "definition": {
+            "0": "Partes \u00edntimas del hombre. "
+        }
+    },
+    {
+        "word": "Pinta:",
+        "type": "s",
+        "definition": {
+            "0": "Cerveza, ya sea de lata o de botella. "
+        }
+    },
+    {
+        "word": "Pipi:",
+        "type": "s",
+        "definition": {
+            "0": "Parte \u00edntima del hombre, generalmente del ni\u00f1o. "
+        }
+    },
+    {
+        "word": "PLB:",
+        "type": "acr.",
+        "definition": {
+            "0": "Pa\u2019 la bajada. Al final de una situaci\u00f3n, de un acontecimiento. "
+        }
+    },
+    {
+        "word": "Plena:",
+        "type": "s",
+        "definition": {
+            "0": "Buena m\u00fasica, generalmente utilizado para referirse a la m\u00fasica reggae. "
+        }
+    },
+    {
+        "word": "PLP:",
+        "type": "acr.",
+        "definition": {
+            "0": "Pa\u2019 la pinga. Se utiliza para expresar enojo. "
+        }
+    },
+    {
+        "word": "Pocot\u00f3n:",
+        "type": "exp.",
+        "definition": {
+            "0": "Mucho, en gran cantidad. "
+        }
+    },
+    {
+        "word": "Pollo:",
+        "type": "s",
+        "definition": {
+            "0": "Pareja de alguien, generalmente utilizado por personas de barrios populares. "
+        }
+    },
+    {
+        "word": "Pollo del mes:",
+        "type": "s",
+        "definition": {
+            "0": "Persona con la que se sale, pareja moment\u00e1nea. "
+        }
+    },
+    {
+        "word": "Polvo:",
+        "type": "s",
+        "definition": {
+            "0": "Relaci\u00f3n sexual. "
+        }
+    },
+    {
+        "word": "Polvo Mental:",
+        "type": "s",
+        "definition": {
+            "0": "Relaci\u00f3n sexual imaginaria, de la que se habla, generalmente por el hombre, pero nunca se llev\u00f3 a cabo en realidad. "
+        }
+    },
+    {
+        "word": "Ponchar:",
+        "type": "v",
+        "definition": {
+            "0": "Tener relaciones sexuales. "
+        }
+    },
+    {
+        "word": "Poncharse:",
+        "type": "v",
+        "definition": {
+            "0": "Fallar, errar algo por poco. "
+        }
+    },
+    {
+        "word": "Ponchera:",
+        "type": "s",
+        "definition": {
+            "0": "Relajo, desorden, diversi\u00f3n. "
+        }
+    },
+    {
+        "word": "Ponchi:",
+        "type": "a",
+        "definition": {
+            "0": "Loco, desadaptado. "
+        }
+    },
+    {
+        "word": "Ponerse pollera:",
+        "type": "exp.",
+        "definition": {
+            "0": "Demorarse una eternidad visti\u00e9ndose o arregl\u00e1ndose antes de salir a alg\u00fan sitio. "
+        }
+    },
+    {
+        "word": "Praka:",
+        "type": "a",
+        "definition": {
+            "0": "Persona de barrio, generalmente asociado a la delincuencia. "
+        }
+    },
+    {
+        "word": "Prende:",
+        "type": "exp.",
+        "definition": {
+            "0": "Encender el cigarrillo o la pipa. "
+        }
+    },
+    {
+        "word": "Prende el rancho:",
+        "type": "exp.",
+        "definition": {
+            "0": "Cuando una situaci\u00f3n sube de tono, se dificulta o se activa. "
+        }
+    },
+    {
+        "word": "Prendido:",
+        "type": "a",
+        "definition": {
+            "0": "Que expulsa un fuerte olor. "
+        }
+    },
+    {
+        "word": "Pritty:",
+        "type": "a",
+        "definition": {
+            "0": "Algo bueno, bonito. "
+        }
+    },
+    {
+        "word": "Puesto quemao:",
+        "type": "exp.",
+        "definition": {
+            "0": "Cuando algo o alguien, est\u00e1 apartado con anterioridad, un puesto, o una persona. "
+        }
+    },
+    {
+        "word": "Pu\u00f1etazo:",
+        "type": "s",
+        "definition": {
+            "0": "Golpe, con el pu\u00f1o cerrado. "
+        }
+    },
+    {
+        "word": "Pu\u00f1ete:",
+        "type": "s",
+        "definition": {
+            "0": "Golpe, con el pu\u00f1o cerrado. "
+        }
+    },
+    {
+        "word": "Push:",
+        "type": "s",
+        "definition": {
+            "0": "Hotel discrecional, donde se paga por tiempo, para generalmente tener relaciones sexuales con la pareja. "
+        }
+    },
+    {
+        "word": "Putero:",
+        "type": "s",
+        "definition": {
+            "0": "Cabaret, club de caballeros. Donde est\u00e1n las prostitutas. "
+        }
+    },
+    {
+        "word": "Puya:",
+        "type": "s",
+        "definition": {
+            "0": "Comentario mal intencionado para generar molestia o incomodidad en otra persona. "
+        }
+    },
+    {
+        "word": "Qiubo:",
+        "type": "exp.",
+        "definition": {
+            "0": "Acortamiento de que hubo. Utilizado para saludar, generalmente por personas del interior del pa\u00eds. "
+        }
+    },
+    {
+        "word": "Que es lo que es:",
+        "type": "exp.",
+        "definition": {
+            "0": "Se utiliza para saludar, generalmente entre las personas j\u00f3venes. "
+        }
+    },
+    {
+        "word": "Que xopa:",
+        "type": "exp.",
+        "definition": {
+            "0": "Una de las expresiones m\u00e1s utilizada por los j\u00f3venes para saludarse. "
+        }
+    },
+    {
+        "word": "Quemar:",
+        "type": "v",
+        "definition": {
+            "0": "Serle infiel a la pareja. "
+        }
+    },
+    {
+        "word": "Queme:",
+        "type": "s",
+        "definition": {
+            "0": "Persona con la que se le es infiel a la pareja. "
+        }
+    },
+    {
+        "word": "Quenque:",
+        "type": "s",
+        "definition": {
+            "0": "Otro nombre para la marihuana. "
+        }
+    },
+    {
+        "word": "Queque:",
+        "type": "s",
+        "definition": {
+            "0": "Un tipo de dulce. "
+        }
+    },
+    {
+        "word": "Queso:",
+        "type": "s",
+        "definition": {
+            "0": "Deseo sexual con una persona en espec\u00edfico. "
+        }
+    },
+    {
+        "word": "Quet\u00f3n:",
+        "type": "s",
+        "definition": {
+            "0": "Caja de cigarrillos. "
+        }
+    },
+    {
+        "word": "Qui\u00f1ar:",
+        "type": "v",
+        "definition": {
+            "0": "Golpear por poco, rozar. "
+        }
+    },
+    {
+        "word": "Quincha:",
+        "type": "s",
+        "definition": {
+            "0": "Casa construida con madera y barro, con techo de tejas de arcilla. Generalmente se hac\u00edan en el interior del pa\u00eds. "
+        }
+    },
+    {
+        "word": "Rabiblanco:",
+        "type": "s",
+        "definition": {
+            "0": "Persona con dinero y de alto nivel social. "
+        }
+    },
+    {
+        "word": "Raca:",
+        "type": "s",
+        "definition": {
+            "0": "Acortamiento de racataca. Persona del barrio, de bajos recursos, generalmente asociada al mundo delictivo. Con una manera de actuar, hablar y vivir muy particular. "
+        }
+    },
+    {
+        "word": "Racataca:",
+        "type": "s",
+        "definition": {
+            "0": "Acortamiento de racataca. Persona del barrio, de bajos recursos, generalmente asociada al mundo delictivo. Con una manera de actuar, hablar y vivir muy particular. "
+        }
+    },
+    {
+        "word": "Raka:",
+        "type": "s",
+        "definition": {
+            "0": "Acortamiento de racataca. Persona del barrio, de bajos recursos, generalmente asociada al mundo delictivo. Con una manera de actuar, hablar y vivir muy particular. "
+        }
+    },
+    {
+        "word": "Rambulero:",
+        "type": "s",
+        "definition": {
+            "0": "Persona con actitud chabacana, sin respeto por los dem\u00e1s, que utiliza expresiones irrespetuosas. "
+        }
+    },
+    {
+        "word": "Rankiao:",
+        "type": "a",
+        "definition": {
+            "0": "Persona con alg\u00fan nivel social o econ\u00f3mico. Que tiene un alto nivel en cualquier cosa. "
+        }
+    },
+    {
+        "word": "Rantan:",
+        "type": "exp.",
+        "definition": {
+            "0": "Mucho, en abundancia. "
+        }
+    },
+    {
+        "word": "Raspao:",
+        "type": "s",
+        "definition": {
+            "0": "Hielo triturado, con alg\u00fan sirope o jarabe de alg\u00fan sabor natural. Generalmente vendido en lugares p\u00fablicos. "
+        }
+    },
+    {
+        "word": "Rata:",
+        "type": "a",
+        "definition": {
+            "0": "Persona sin moral, que se aprovecha de las situaciones desfavorables de otras personas para sus propios intereses. "
+        }
+    },
+    {
+        "word": "Ratona:",
+        "type": "a",
+        "definition": {
+            "0": "Mujer que se aprovecha de un hombre, le da falsas ilusiones s\u00f3lo para sacar provecho de \u00e9l. "
+        }
+    },
+    {
+        "word": "Real:",
+        "type": "s",
+        "definition": {
+            "0": "Moneda de cinco centavos. "
+        }
+    },
+    {
+        "word": "Recula:",
+        "type": "exp.",
+        "definition": {
+            "0": "De reversa, hacia atr\u00e1s. "
+        }
+    },
+    {
+        "word": "Red:",
+        "type": "a",
+        "definition": {
+            "0": "Cuando los vasos capilares de los ojos se llenan de sangre, luego de haber consumido marihuana. Tener los ojos rojos. "
+        }
+    },
+    {
+        "word": "Refine:",
+        "type": "s",
+        "definition": {
+            "0": "Comer. "
+        }
+    },
+    {
+        "word": "Rejera:",
+        "type": "s",
+        "definition": {
+            "0": "Tener relaciones sexuales. "
+        }
+    },
+    {
+        "word": "Rejero:",
+        "type": "s",
+        "definition": {
+            "0": "Hombre que suele salir a fiestas o discotecas con otros hombres, porque no tienen pareja mujer. Grupo de amigos que salen a buscar mujeres en las fiestas. "
+        }
+    },
+    {
+        "word": "Rejo:",
+        "type": "s",
+        "definition": {
+            "0": "Parte \u00edntima masculina. "
+        }
+    },
+    {
+        "word": "Relajo:",
+        "type": "s",
+        "definition": {
+            "0": "Molestar, fastidiar, divertirse, desorden. "
+        }
+    },
+    {
+        "word": "Relajoso:",
+        "type": "a",
+        "definition": {
+            "0": "Persona que le gusta hacer relajos, molestar, fastidiar, desorden. "
+        }
+    },
+    {
+        "word": "Retando:",
+        "type": "v",
+        "definition": {
+            "0": "Proponerse a hacer algo, postularse a participar de algo, despu\u00e9s que termine la persona que lo est\u00e1 haciendo. "
+        }
+    },
+    {
+        "word": "Reventar:",
+        "type": "v",
+        "definition": {
+            "0": "Molestar, fastidiar, joder. "
+        }
+    },
+    {
+        "word": "Riquita:",
+        "type": "a",
+        "definition": {
+            "0": "Mujer bonita, con buena figura y buen cuerpo. "
+        }
+    },
+    {
+        "word": "Rosca:",
+        "type": "s",
+        "definition": {
+            "0": "Cuando se toma una decisi\u00f3n claramente favorable con una persona en espec\u00edfico. "
+        }
+    },
+    {
+        "word": "Rulear:",
+        "type": "v",
+        "definition": {
+            "0": "Hacer el cigarrillo de marihuana. "
+        }
+    },
+    {
+        "word": "Runcho:",
+        "type": "a",
+        "definition": {
+            "0": "Desarreglado, desordenado, ajado, sin buena apariencia. "
+        }
+    },
+    {
+        "word": "Sabros\u00f3n:",
+        "type": "a",
+        "definition": {
+            "0": "Algo muy bueno, que se puede disfrutar. "
+        }
+    },
+    {
+        "word": "Salao:",
+        "type": "a",
+        "definition": {
+            "0": "Persona con muy mala suerte, que le suelen ocurrir cosas desafortunadas. "
+        }
+    },
+    {
+        "word": "Sangre:",
+        "type": "s",
+        "definition": {
+            "0": "Persona de mucha confianza, generalmente se le conoce desde la infancia. "
+        }
+    },
+    {
+        "word": "Sapo:",
+        "type": "a",
+        "definition": {
+            "0": "Persona que dice cosas que no debe decir, cuenta los secretos o las cosas que se le dicen en confianza, sopl\u00f3n. "
+        }
+    },
+    {
+        "word": "Sarao:",
+        "type": "s",
+        "definition": {
+            "0": "Fiesta que se realiza una vez al a\u00f1o en los colegios p\u00fablicos, generalmente por y para los estudiantes. "
+        }
+    },
+    {
+        "word": "Sencillo:",
+        "type": "s",
+        "definition": {
+            "0": "Acumulaci\u00f3n de monedas. "
+        }
+    },
+    {
+        "word": "Setear:",
+        "type": "v",
+        "definition": {
+            "0": "Agendar, organizar, ponerse de acuerdo en algo que se va a realizar. "
+        }
+    },
+    {
+        "word": "Setiado:",
+        "type": "a",
+        "definition": {
+            "0": "Cuando alguna situaci\u00f3n ya est\u00e1 organizada, est\u00e1 preparada y es muy probable que suceda. "
+        }
+    },
+    {
+        "word": "Shatta:",
+        "type": "a",
+        "definition": {
+            "0": "J\u00f3ven de barrio. "
+        }
+    },
+    {
+        "word": "Solido:",
+        "type": "a",
+        "definition": {
+            "0": "Algo que est\u00e1 bueno, es bonito y de gran calidad. "
+        }
+    },
+    {
+        "word": "Sometedera:",
+        "type": "s",
+        "definition": {
+            "0": "Acto de someter. Cuando dos personas est\u00e1n bes\u00e1ndose, acarici\u00e1ndose y bailando pegado. "
+        }
+    },
+    {
+        "word": "Someter:",
+        "type": "v",
+        "definition": {
+            "0": "Besar, acariciar, bailar pegado con otra persona. "
+        }
+    },
+    {
+        "word": "Sopa de techo:",
+        "type": "s",
+        "definition": {
+            "0": "Mezcla de ideas, confusi\u00f3n, meditaci\u00f3n y an\u00e1lisis de ideas, generalmente por un problema personal. "
+        }
+    },
+    {
+        "word": "Sopla moco:",
+        "type": "s",
+        "definition": {
+            "0": "Golpe, gaznatazo. "
+        }
+    },
+    {
+        "word": "Suave:",
+        "type": "exp.",
+        "definition": {
+            "0": "Se utiliza para indicarle a una persona que se detenga, que espere un momento. "
+        }
+    },
+    {
+        "word": "Suelta:",
+        "type": "exp.",
+        "definition": {
+            "0": "Para indicarle a una persona que hable. "
+        }
+    },
+    {
+        "word": "Sumando:",
+        "type": "s",
+        "definition": {
+            "0": "Ganando dinero. "
+        }
+    },
+    {
+        "word": "Suspiro:",
+        "type": "s",
+        "definition": {
+            "0": "Tipo de dulce. "
+        }
+    },
+    {
+        "word": "Ta' cool:",
+        "type": "exp.",
+        "definition": {
+            "0": "Se utiliza para indicar que algo o alguien est\u00e1 bien, que es de confianza o que es bueno. "
+        }
+    },
+    {
+        "word": "Ta' pasao:",
+        "type": "exp.",
+        "definition": {
+            "0": "Algo que es muy bueno, excelente, que sobrepasa las expectativas. "
+        }
+    },
+    {
+        "word": "Takiao:",
+        "type": "a",
+        "definition": {
+            "0": "Cuando algo est\u00e1 lleno, repleto de algo m\u00e1s. "
+        }
+    },
+    {
+        "word": "Tallao:",
+        "type": "a",
+        "definition": {
+            "0": "Acicalado, bien arreglado, con buena pinta. "
+        }
+    },
+    {
+        "word": "Talle:",
+        "type": "s",
+        "definition": {
+            "0": "Buena ropa o vestimenta m\u00e1s que presentable. "
+        }
+    },
+    {
+        "word": "Tamal:",
+        "type": "s",
+        "definition": {
+            "0": "Masa de ma\u00edz rellena de pollo, puerco o carne, generalmente envuelta en hoja de tallo. "
+        }
+    },
+    {
+        "word": "Tamborito:",
+        "type": "s",
+        "definition": {
+            "0": "Reuni\u00f3n en donde se tocan instrumentos t\u00edpicos y folkl\u00f3ricos del pa\u00eds, en donde se cantan estrofas y coros por todos los presentes. "
+        }
+    },
+    {
+        "word": "Taquilla:",
+        "type": "s",
+        "definition": {
+            "0": "Alardear sobre lo que se tiene y a donde se va, generalmente a trav\u00e9s de las redes sociales. "
+        }
+    },
+    {
+        "word": "Taquillero:",
+        "type": "a",
+        "definition": {
+            "0": "Persona que alardea sobre las cosas que tiene y los lugares que visita. "
+        }
+    },
+    {
+        "word": "Tas:",
+        "type": "s",
+        "definition": {
+            "0": "Vueltas por la calle con los amigos. "
+        }
+    },
+    {
+        "word": "Tatai:",
+        "type": "s",
+        "definition": {
+            "0": "Adi\u00f3s, generalmente utilizado con los ni\u00f1os peque\u00f1os. "
+        }
+    },
+    {
+        "word": "Te falta calle:",
+        "type": "exp.",
+        "definition": {
+            "0": "Para referirse a alguien que le faltan conocimientos b\u00e1sicos de la sociedad moderna, que no ha experimentado muchas cosas. "
+        }
+    },
+    {
+        "word": "Tella:",
+        "type": "s",
+        "definition": {
+            "0": "Acortamiento de botella, para referirse a una botella de licor. "
+        }
+    },
+    {
+        "word": "Tembleque:",
+        "type": "s",
+        "definition": {
+            "0": "Adorno de alambres y bolas de pl\u00e1stico brillantes que se colocan en el cabello y se utilizan con la pollera. "
+        }
+    },
+    {
+        "word": "Teso:",
+        "type": "s",
+        "definition": {
+            "0": "Persona que no se deja influenciar por nada, de mucha actitud, que no pierde la calma por situaciones triviales. "
+        }
+    },
+    {
+        "word": "Tigrilla:",
+        "type": "s",
+        "definition": {
+            "0": "Hambre. "
+        }
+    },
+    {
+        "word": "Tinaco:",
+        "type": "s",
+        "definition": {
+            "0": "Cesto de la basura. "
+        }
+    },
+    {
+        "word": "Tirar l\u00edrica:",
+        "type": "exp.",
+        "definition": {
+            "0": "Cantar, dedicar una canci\u00f3n, hablar bien de algo o de alguien. "
+        }
+    },
+    {
+        "word": "Tirar paso:",
+        "type": "exp.",
+        "definition": {
+            "0": "Bailar, destacarse en el baile. "
+        }
+    },
+    {
+        "word": "Tongo:",
+        "type": "s",
+        "definition": {
+            "0": "Polic\u00eda. "
+        }
+    },
+    {
+        "word": "Tont\u00f3n:",
+        "type": "s",
+        "definition": {
+            "0": "Parte \u00edntima de la mujer. "
+        }
+    },
+    {
+        "word": "Tortillera:",
+        "type": "a",
+        "definition": {
+            "0": "Lesbiana. "
+        }
+    },
+    {
+        "word": "Totuma:",
+        "type": "s",
+        "definition": {
+            "0": "Envase hecho del fruto del calabazo cuando se seca. "
+        }
+    },
+    {
+        "word": "Toy:",
+        "type": "exp.",
+        "definition": {
+            "0": "Acortamiento de estoy. Se utiliza para expresar que se est\u00e1 dispuesto a hacer algo. "
+        }
+    },
+    {
+        "word": "Trancaso:",
+        "type": "s",
+        "definition": {
+            "0": "Golpe muy fuerte. "
+        }
+    },
+    {
+        "word": "Tranque:",
+        "type": "s",
+        "definition": {
+            "0": "Acumulaci\u00f3n de carros, tr\u00e1fico. "
+        }
+    },
+    {
+        "word": "Transar:",
+        "type": "s",
+        "definition": {
+            "0": "Robar, hurtar, estafar. "
+        }
+    },
+    {
+        "word": "Trasmallo:",
+        "type": "exp.",
+        "definition": {
+            "0": "Cuando se intenta enamorar a varias personas a la vez a trav\u00e9s de las redes sociales. "
+        }
+    },
+    {
+        "word": "Trepa que sube:",
+        "type": "exp.",
+        "definition": {
+            "0": "Enredo, confusi\u00f3n, caos, alboroto. "
+        }
+    },
+    {
+        "word": "Trip:",
+        "type": "s",
+        "definition": {
+            "0": "Experiencia, viaje, situaci\u00f3n. "
+        }
+    },
+    {
+        "word": "Tripear:",
+        "type": "v",
+        "definition": {
+            "0": "Pasar una buena experiencia, tener un buen rato, ir a un buen lugar. "
+        }
+    },
+    {
+        "word": "Tromp\u00f3n:",
+        "type": "s",
+        "definition": {
+            "0": "Golpe fuerte en la cara. "
+        }
+    },
+    {
+        "word": "Tufo:",
+        "type": "s",
+        "definition": {
+            "0": "Mal olor proveniente de la boca. "
+        }
+    },
+    {
+        "word": "Tumbar:",
+        "type": "v",
+        "definition": {
+            "0": "Arruinar, destruir, da\u00f1ar, desmantelar una situaci\u00f3n que era favorable. "
+        }
+    },
+    {
+        "word": "Vaca:",
+        "type": "s",
+        "definition": {
+            "0": "Recolecci\u00f3n de dinero entre varias personas. "
+        }
+    },
+    {
+        "word": "Vaina:",
+        "type": "s",
+        "definition": {
+            "0": "Para referirse a cualquiera cosa en general. "
+        }
+    },
+    {
+        "word": "Venirse:",
+        "type": "s",
+        "definition": {
+            "0": "Llegar al orgasmo. "
+        }
+    },
+    {
+        "word": "Verdosa:",
+        "type": "s",
+        "definition": {
+            "0": "Botella de cerveza. "
+        }
+    },
+    {
+        "word": "Vergazo:",
+        "type": "s",
+        "definition": {
+            "0": "Golpe fuerte. "
+        }
+    },
+    {
+        "word": "Vergero:",
+        "type": "s",
+        "definition": {
+            "0": "Enredo, confusi\u00f3n, caos, desorden. "
+        }
+    },
+    {
+        "word": "Vidajena:",
+        "type": "a",
+        "definition": {
+            "0": "Persona que se entromete en la vida de los dem\u00e1s, o quiere saber de qu\u00e9 va una situaci\u00f3n que no le incumbe. "
+        }
+    },
+    {
+        "word": "Viejos:",
+        "type": "s",
+        "definition": {
+            "0": "Padres. "
+        }
+    },
+    {
+        "word": "Violin:",
+        "type": "s",
+        "definition": {
+            "0": "Persona que est\u00e1 en acompa\u00f1amiento de una pareja. "
+        }
+    },
+    {
+        "word": "Volar cometa:",
+        "type": "exp.",
+        "definition": {
+            "0": "Masturbarse. "
+        }
+    },
+    {
+        "word": "Vuelve y traba:",
+        "type": "exp.",
+        "definition": {
+            "0": "Cuando algo vuelve a suceder. "
+        }
+    },
+    {
+        "word": "Wapin:",
+        "type": "exp.",
+        "definition": {
+            "0": "Utilizado para saludar. "
+        }
+    },
+    {
+        "word": "Wapinde:",
+        "type": "exp.",
+        "definition": {
+            "0": "Utilizado para saludar. "
+        }
+    },
+    {
+        "word": "Waro:",
+        "type": "s",
+        "definition": {
+            "0": "Alcohol, licor de cualquier tipo. "
+        }
+    },
+    {
+        "word": "Webear:",
+        "type": "v",
+        "definition": {
+            "0": "Vaguear, descansar, no hacer nada. "
+        }
+    },
+    {
+        "word": "Webera:",
+        "type": "s",
+        "definition": {
+            "0": "Tener relaciones sexuales. "
+        }
+    },
+    {
+        "word": "Web\u00f3n:",
+        "type": "a",
+        "definition": {
+            "0": "Persona vaga, que no hace nada productivo y espera que los dem\u00e1s lo hagan por \u00e9l. "
+        }
+    },
+    {
+        "word": "Xopa:",
+        "type": "exp.",
+        "definition": {
+            "0": "Una de las expresiones m\u00e1s utilizada por los j\u00f3venes para saludarse. "
+        }
+    },
+    {
+        "word": "Yass:",
+        "type": "s",
+        "definition": {
+            "0": "Playa. "
+        }
+    },
+    {
+        "word": "Yeg\u00fcero:",
+        "type": "a",
+        "definition": {
+            "0": "Persona que tiene o ha tenido relaciones sexuales con yeguas. "
+        }
+    },
+    {
+        "word": "Yesca:",
+        "type": "s",
+        "definition": {
+            "0": "Calle. "
+        }
+    },
+    {
+        "word": "Yeye:",
+        "type": "s",
+        "definition": {
+            "0": "Persona adinerada y de un mayor estatus social que el promedio. Suele tener facilidades y comodidades. "
+        }
+    },
+    {
+        "word": "Yeyesiao:",
+        "type": "a",
+        "definition": {
+            "0": "Cuando algo o alguien puede darse lujos y comodidades. "
+        }
+    },
+    {
+        "word": "Yeyo:",
+        "type": "exp.",
+        "definition": {
+            "0": "Utilizado para expresar conformidad, o que algo est\u00e1 bien o es bueno. "
+        }
+    },
+    {
+        "word": "Zambito:",
+        "type": "exp.",
+        "definition": {
+            "0": "Ni\u00f1o de corta edad. "
+        }
     }
-  }
 ]
