@@ -30,6 +30,7 @@ def main():
         for j in range(nb_def):
             def_tmp = data[i]["definition"][str(j)]
             print("{0}. {1}".format(j+1, def_tmp))
+        print("--------")
 
 if __name__ == '__main__':
     main()

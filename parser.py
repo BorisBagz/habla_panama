@@ -1,6 +1,24 @@
 import json
 import re
 
+"""
+Parser for HABLA PANAMA
+by: boris a.
+
+Instructions:
+This parser accepts the following format:
+
+<WORD>: [<TYPE of WORD>] - <DEFINITION>
+
+Respecting the punctuation and spacing, we can parse a file including definitions
+one word per line
+the type of word
+and its definition
+
+We need to call the input file "words_tmp.txt"
+It will then append it to the "words.json" file
+"""
+
 words_json_file = "words.json"
 
 # function to add to JSON
