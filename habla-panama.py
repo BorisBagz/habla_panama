@@ -2,6 +2,7 @@ import json
 import random
 import os
 import sys
+import string
 
 """
 HABLA PANAMA
@@ -11,9 +12,22 @@ by: boris a.
 Please, execute using PYTHON3
 """
 
+#print styling
+class color:
+   PURPLE = '\033[95m'
+   CYAN = '\033[96m'
+   DARKCYAN = '\033[36m'
+   BLUE = '\033[94m'
+   GREEN = '\033[92m'
+   YELLOW = '\033[93m'
+   RED = '\033[91m'
+   BOLD = '\033[1m'
+   UNDERLINE = '\033[4m'
+   END = '\033[0m'
+
 # GLOBAL VARIABLES
-my_json_words = 'words_test.json'     #json file containing the questions
-valid_type_word = ['1', '2', '3', '4', '5']
+my_json_words = 'words.json'     #json file containing the questions
+valid_type_word = ['1', '2', '3', '4', '5'] #list with valid type for adding entries
 
 #read the json file and load it to the variable DATA
 def read_json_file(json_file):
@@ -76,9 +90,8 @@ def adding_entries(tmp_word, tmp_type, tmp_definition):
     #writing data to file
     write_json(data)
 
-#menu asking for word, type and defitions
-def menu_add_entry():
-    tmp_word = input('Palabra: ')
+#handle the type of word when adding an entry
+def add_type_word():
     #do while for the type of word input, it has to be in the valid_type_word array
     while True:
         print("Tipo de palabra:\n 1. VERBO\n 2. SUSTANTIVO\n 3. EXPRESION\n 4. ACRONIMO\n 5. OTRO")
@@ -102,19 +115,54 @@ def menu_add_entry():
                 tmp_type = "otro"
                 break
         print("Favor introducir un tipo de palabra que esté entro de las opciones. [1-5]")
+    return tmp_type
+
+#handle adding definitions
+def add_definitions():
     #do while for repeating the definition prompt if required
     while True:
         tmp_definition = input("Definicion: ")
         nb_definitions = input("Desea agregar otra deficion para la misma palabra? (Y/N)")
         if nb_definitions == "n" or nb_definitions == "N":
-            break;
+            break
+    return tmp_definition
+
+#menu asking for word, type and defitions
+def menu_add_entry():
+    tmp_word = input('Palabra: ')
+    tmp_type = add_type_word()
+    tmp_definition = add_definitions()
     adding_entries(tmp_word, tmp_type, tmp_definition)
 
+#print the wod tht starts w a number
+def sort_words_w_number(data, length_data):
+    valid_numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+    print(color.GREEN + color.BOLD + '0-9:' + color.END)
+    for j in range(length_data):
+        if data[j]["word"][:1] in valid_numbers:
+            print("{0}".format(data[j]["word"]))
+    print("-------------------------")
+
+#go thru the alphabet and print the words starting with each letter
+def order_alphabet(data):
+    length_data = len(data)
+    sort_words_w_number(data, length_data)
+    #we'll use the strin.ascii array to print the letter and look for words
+    #starting w that letter
+    for i in range(len(string.ascii_uppercase)):
+        tmp_letra_mayus = string.ascii_uppercase[i]
+        tmp_letra_minus = string.ascii_lowercase[i]
+        #print("{0}:".format(tmp_letra_mayus))
+        print(color.GREEN + color.BOLD + tmp_letra_mayus + ':' + color.END)
+        for j in range(length_data):
+            #if the word starts w that letter in upper or lower case
+            if data[j]["word"][:1] == tmp_letra_mayus or data[j]["word"][:1] == tmp_letra_minus:
+                print("{0}".format(data[j]["word"]))
+        print("-------------------------")
+
 def main():
-    menu_add_entry()
     data = read_json_file(my_json_words)
-    print_all_entries(data)
-    #print_list_words()
+    order_alphabet(data)
 
 if __name__ == '__main__':
     main()
