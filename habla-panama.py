@@ -29,6 +29,7 @@ class color:
 # GLOBAL VARIABLES
 my_json_words = 'words.json'     #json file containing the questions
 valid_type_word = ['1', '2', '3', '4', '5'] #list with valid type for adding entries
+valid_numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 
 #read the json file and load it to the variable DATA
 def read_json_file(json_file):
@@ -137,7 +138,6 @@ def menu_add_entry():
 
 #print the wod tht starts w a number
 def sort_words_w_number(data, length_data):
-    valid_numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
     print(color.GREEN + color.BOLD + '0-9:' + color.END)
     for j in range(length_data):
         if data[j]["word"][:1] in valid_numbers:
@@ -171,8 +171,14 @@ def match_difference_words(user_word):
         entry_word = data[i]["word"].lower()
         ratio = SequenceMatcher(None, user_word, entry_word).ratio()
         if ratio > 0.75:
-            matches.append(entry_word)
+            #we fetch the index in the dictionary as well
+            matches.append(tuple([entry_word, i]))
     return matches
+
+#print the word that was looked for in the searching
+def retrieve_definition(index):
+    data = read_json_file(my_json_words)
+    print_single_entry(data[index])
 
 #searching function
 #based on the user input and computes a ratio of difference
@@ -180,13 +186,25 @@ def match_difference_words(user_word):
 def search_words():
     user_word = input("Buscar palabra: ").lower()
     matches = match_difference_words(user_word)
+    length_matches = len(matches)
+    #if there was any match
     if matches:
-        for i in range(len(matches)):
-            print("{0}. {1}".format(i + 1, matches[i]))
-        word_to_print = input("Escoge el número de la palabra que deseas ver (0-9): ")
-        if word_to_print in valid_numbers:
-            
-
+        #array with the index of the found words
+        tmp_matches_index = []
+        #print the matches
+        for i in range(length_matches):
+            tmp_matches_index.append(str(i + 1))
+            print("{0}. {1}".format(i + 1, matches[i][0]))
+        while True:
+            nb_word_to_print = input("Escoge el número de la palabra que deseas ver (0-9): ")
+            #check if input is valid
+            if nb_word_to_print in tmp_matches_index:
+                #cast char to int
+                number_word = int(nb_word_to_print)
+                #fetch the index of that word
+                index_to_define = matches[number_word - 1][1]
+                retrieve_definition(index_to_define)
+                break
 
 def main():
     search_words()
