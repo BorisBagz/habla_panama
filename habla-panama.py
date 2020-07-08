@@ -3,6 +3,7 @@ import random
 import os
 import sys
 import string
+from difflib import SequenceMatcher
 
 """
 HABLA PANAMA
@@ -147,7 +148,7 @@ def sort_words_w_number(data, length_data):
 def order_alphabet(data):
     length_data = len(data)
     sort_words_w_number(data, length_data)
-    #we'll use the strin.ascii array to print the letter and look for words
+    #we'll use the string.ascii array to print the letter and look for words
     #starting w that letter
     for i in range(len(string.ascii_uppercase)):
         tmp_letra_mayus = string.ascii_uppercase[i]
@@ -160,9 +161,35 @@ def order_alphabet(data):
                 print("{0}".format(data[j]["word"]))
         print("-------------------------")
 
-def main():
+#leverages SequenceMatcher to compute the ratio of difference
+#btwn the input of the user and words in the dictionary
+#if the ratio is over .75 add it to an array matches
+def match_difference_words(user_word):
+    matches = []
     data = read_json_file(my_json_words)
-    order_alphabet(data)
+    for i in range(len(data)):
+        entry_word = data[i]["word"].lower()
+        ratio = SequenceMatcher(None, user_word, entry_word).ratio()
+        if ratio > 0.75:
+            matches.append(entry_word)
+    return matches
+
+#searching function
+#based on the user input and computes a ratio of difference
+#creates an array if theres matches, prints the array
+def search_words():
+    user_word = input("Buscar palabra: ").lower()
+    matches = match_difference_words(user_word)
+    if matches:
+        for i in range(len(matches)):
+            print("{0}. {1}".format(i + 1, matches[i]))
+        word_to_print = input("Escoge el número de la palabra que deseas ver (0-9): ")
+        if word_to_print in valid_numbers:
+            
+
+
+def main():
+    search_words()
 
 if __name__ == '__main__':
     main()
