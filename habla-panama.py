@@ -74,6 +74,11 @@ def print_list_words():
     for i in range(len(data)):
         print_word(data[i])
 
+#print a word using its index
+def retrieve_definition(index):
+    data = read_json_file(my_json_words)
+    print_single_entry(data[index])
+
 #adding entries to the dictionary
 def adding_entries(tmp_word, tmp_type, tmp_definition):
     #adding process
@@ -161,6 +166,42 @@ def order_alphabet(data):
                 print("{0}".format(data[j]["word"]))
         print("-------------------------")
 
+#fetch all the words starting with that letter
+def match_by_letter(data, letter):
+    length_data = len(data)
+    matches = []
+    for i in range(length_data):
+        if data[i]["word"][:1] == letter.upper():
+            tmp_match = data[i]["word"]
+            matches.append(tuple([tmp_match, i]))
+            #print("{0}. {1}".format(count + 1, data[i]["word"]))
+            #count = count + 1
+    return matches
+
+#ask the user to look words starting with an specific letter
+def look_for_letter():
+    data = read_json_file(my_json_words)
+    letter = input("Introduce la letra que deseas buscar: ")
+    matches = match_by_letter(data, letter)
+    if matches:
+        length_matches = len(matches)
+        #array with the index of the found words
+        tmp_matches_index = []
+        #print the matches
+        for i in range(length_matches):
+            tmp_matches_index.append(str(i + 1))
+            print("{0}. {1}".format(i + 1, matches[i][0]))
+        while True:
+            nb_word_to_print = input("Escoge el número de la palabra que deseas ver : ")
+            #check if input is valid
+            if nb_word_to_print in tmp_matches_index:
+                #cast char to int
+                number_word = int(nb_word_to_print)
+                #fetch the index of that word
+                index_to_define = matches[number_word - 1][1]
+                retrieve_definition(index_to_define)
+                break
+
 #leverages SequenceMatcher to compute the ratio of difference
 #btwn the input of the user and words in the dictionary
 #if the ratio is over .75 add it to an array matches
@@ -175,20 +216,15 @@ def match_difference_words(user_word):
             matches.append(tuple([entry_word, i]))
     return matches
 
-#print the word that was looked for in the searching
-def retrieve_definition(index):
-    data = read_json_file(my_json_words)
-    print_single_entry(data[index])
-
 #searching function
 #based on the user input and computes a ratio of difference
 #creates an array if theres matches, prints the array
 def search_words():
     user_word = input("Buscar palabra: ").lower()
     matches = match_difference_words(user_word)
-    length_matches = len(matches)
     #if there was any match
     if matches:
+        length_matches = len(matches)
         #array with the index of the found words
         tmp_matches_index = []
         #print the matches
@@ -206,8 +242,11 @@ def search_words():
                 retrieve_definition(index_to_define)
                 break
 
+# def menu():
+#     print("WELCOME TO")
+
 def main():
-    search_words()
+    look_for_letter()
 
 if __name__ == '__main__':
     main()
