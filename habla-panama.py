@@ -53,8 +53,12 @@ def print_word_type(data):
     type = data["type"]
     print("{0} [{1}] :".format(word, type))
 
+#clears the terminal screen depending on the OS
 def clean_screen():
-    os.system('clear')
+    if os.name == "posix":
+        os.system('clear')
+    if os.name == "nt":
+       os.system("cls")
 
 #print a single entry: word, type and definition
 def print_single_entry(data):
