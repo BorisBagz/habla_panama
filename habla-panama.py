@@ -28,7 +28,7 @@ class color:
 
 # GLOBAL VARIABLES
 my_json_words = 'words.json'     #json file containing the questions
-valid_type_word = ['1', '2', '3', '4', '5'] #list with valid type for adding entries
+valid_type_word = ['1', '2', '3', '4', '6', '5'] #list with valid type for adding entries
 valid_numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 
 #read the json file and load it to the variable DATA
@@ -117,7 +117,7 @@ def adding_entries(tmp_word, tmp_type, tmp_definition):
 def add_type_word():
     #do while for the type of word input, it has to be in the valid_type_word array
     while True:
-        print("Tipo de palabra:\n 1. VERBO\n 2. SUSTANTIVO\n 3. EXPRESION\n 4. ACRONIMO\n 5. OTRO")
+        print("Tipo de palabra:\n 1. VERBO\n 2. SUSTANTIVO\n 3. ADJETIVO\n 4. EXPRESION\n 5. ACRONIMO\n 6. OTRO")
         tmp_type_nb = input()
         #check if answer is valid
         if tmp_type_nb in valid_type_word:
@@ -129,9 +129,12 @@ def add_type_word():
                 tmp_type = "s"
                 break
             if tmp_type_nb == "3":
-                tmp_type = "expr."
+                tmp_type = "a"
                 break
             if tmp_type_nb == "4":
+                tmp_type = "expr."
+                break
+            if tmp_type_nb == "5":
                 tmp_type = "acr."
                 break
             if tmp_type_nb == "5":

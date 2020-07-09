@@ -3787,13 +3787,6 @@
         }
     },
     {
-        "word": "Satinao",
-        "type": "a",
-        "definition": {
-            "0": "Persona o animal que est\u00e1 perdido o desorientado."
-        }
-    },
-    {
         "word": "Arrechera",
         "type": "s",
         "definition": {
@@ -3959,6 +3952,13 @@
         "definition": {
             "0": "Persona con la nariz peque\u00f1a.",
             "1": "Persona con la voz nasal."
+        }
+    },
+    {
+        "word": "Satinao'",
+        "type": "a",
+        "definition": {
+            "0": "Perdido, confundido, estresado, desorientado."
         }
     }
 ]
