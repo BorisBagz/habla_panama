@@ -88,16 +88,25 @@ def retrieve_definition(index):
 
 #adding entries to the dictionary
 def adding_entries(tmp_word, tmp_type, tmp_definition):
+    #creating an independent array for definitions
+    #including the first definition in the array
+    nb_definitions = len(tmp_definition)
+    definitions_array = {
+                            "0": tmp_definition[0]
+                        }
     #adding process
     with open(my_json_words) as json_file:
         data = json.load(json_file)
+        #if there's more than one definition then
+        #we add them to definitions_array
+        if nb_definitions > 1:
+            for i in range(1,nb_definitions):
+                index = str(i)
+                definitions_array[index] = tmp_definition[i]
         # json object to be appended
         new_entry = {   "word": tmp_word,
                         "type": tmp_type,
-                        "definition":
-                        {
-                            "0": tmp_definition
-                        }
+                        "definition": definitions_array
                     }
         # appending entry to data
         data.append(new_entry)
@@ -133,13 +142,15 @@ def add_type_word():
 
 #handle adding definitions
 def add_definitions():
+    definitions = []
     #do while for repeating the definition prompt if required
     while True:
         tmp_definition = input("Definicion: ")
+        definitions.append(tmp_definition)
         nb_definitions = input("Desea agregar otra deficion para la misma palabra? (Y/N)")
         if nb_definitions == "n" or nb_definitions == "N":
             break
-    return tmp_definition
+    return definitions
 
 #menu asking for word, type and defitions
 def menu_add_entry():
