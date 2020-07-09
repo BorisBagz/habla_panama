@@ -53,6 +53,9 @@ def print_word_type(data):
     type = data["type"]
     print("{0} [{1}] :".format(word, type))
 
+def clean_screen():
+    os.system('clear')
+
 #print a single entry: word, type and definition
 def print_single_entry(data):
     definition = []
@@ -150,7 +153,8 @@ def sort_words_w_number(data, length_data):
     print("-------------------------")
 
 #go thru the alphabet and print the words starting with each letter
-def order_alphabet(data):
+def order_alphabet():
+    data = read_json_file(my_json_words)
     length_data = len(data)
     sort_words_w_number(data, length_data)
     #we'll use the string.ascii array to print the letter and look for words
@@ -242,11 +246,55 @@ def search_words():
                 retrieve_definition(index_to_define)
                 break
 
-# def menu():
-#     print("WELCOME TO")
+def go_back_menu():
+    while True:
+        choice = input("Desea regresar al menú de inicio? (S/N)").capitalize()
+        if choice == 'S':
+            clean_screen()
+            menu()
+            break
+        if choice == 'N':
+            break
+
+#menu options
+def menu():
+    print("Introduce el número de la opción que deseas:")
+    print("\t1. Buscador de palabras.\n"
+          "\t2. Buscar palabras por letra.\n"
+          "\t3. Ver todas las palabras en el diccionario.\n"
+          "\t4. Agregar palabras.\n"
+          "\t9. Salir.")
+    #choice = input()
+    while True:
+        choice = input("Opción: ")
+        if choice == '1':
+            clean_screen()
+            search_words()
+            go_back_menu()
+            break
+        if choice == '2':
+            clean_screen()
+            look_for_letter()
+            go_back_menu()
+            break
+        if choice == '3':
+            clean_screen()
+            order_alphabet()
+            go_back_menu()
+            break
+        if choice == '4':
+            clean_screen()
+            menu_add_entry()
+            go_back_menu()
+            break
+        if choice == '9':
+            print("\n\nHasta luego!")
+            break
+        else:
+            print("Favor introducir una opción válida.")
 
 def main():
-    look_for_letter()
+    menu()
 
 if __name__ == '__main__':
     main()
