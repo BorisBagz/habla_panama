@@ -28,7 +28,7 @@ class color:
 
 # GLOBAL VARIABLES
 my_json_words = 'words.json'     #json file containing the questions
-valid_type_word = ['1', '2', '3', '4', '6', '5'] #list with valid type for adding entries
+valid_type_word = ['1', '2', '3', '4', '5', '6'] #list with valid type for adding entries
 valid_numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 
 #read the json file and load it to the variable DATA
@@ -137,7 +137,7 @@ def add_type_word():
             if tmp_type_nb == "5":
                 tmp_type = "acr."
                 break
-            if tmp_type_nb == "5":
+            if tmp_type_nb == "6":
                 tmp_type = "otro"
                 break
         print("Favor introducir un tipo de palabra que esté entro de las opciones. [1-5]")
